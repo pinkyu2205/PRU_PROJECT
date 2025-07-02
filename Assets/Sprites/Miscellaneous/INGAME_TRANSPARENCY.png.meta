@@ -1,0 +1,3068 @@
+fileFormatVersion: 2
+guid: ab7c066fe03a8e04fb8fc2fd02f3b522
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5994082194873901623
+    second: INGAME_TRANSPARENCY_0
+  - first:
+      213: 7248836913747404696
+    second: INGAME_TRANSPARENCY_1
+  - first:
+      213: 9121774449323892948
+    second: INGAME_TRANSPARENCY_2
+  - first:
+      213: 1584488371731950566
+    second: INGAME_TRANSPARENCY_3
+  - first:
+      213: 5123297109448613168
+    second: INGAME_TRANSPARENCY_4
+  - first:
+      213: -8739620963200893217
+    second: INGAME_TRANSPARENCY_5
+  - first:
+      213: -1754502226591039332
+    second: INGAME_TRANSPARENCY_6
+  - first:
+      213: -1812250675329890036
+    second: INGAME_TRANSPARENCY_7
+  - first:
+      213: -2542725115623257782
+    second: INGAME_TRANSPARENCY_8
+  - first:
+      213: 5054990528866053135
+    second: INGAME_TRANSPARENCY_9
+  - first:
+      213: 2287009424950572308
+    second: INGAME_TRANSPARENCY_10
+  - first:
+      213: 4669241211954391751
+    second: INGAME_TRANSPARENCY_11
+  - first:
+      213: -8646627900344005407
+    second: INGAME_TRANSPARENCY_12
+  - first:
+      213: 1917152224825701044
+    second: INGAME_TRANSPARENCY_13
+  - first:
+      213: -8695366647047746610
+    second: INGAME_TRANSPARENCY_14
+  - first:
+      213: 164826018996046201
+    second: INGAME_TRANSPARENCY_15
+  - first:
+      213: 6541333233126153687
+    second: INGAME_TRANSPARENCY_16
+  - first:
+      213: 5347913851024292415
+    second: INGAME_TRANSPARENCY_17
+  - first:
+      213: -7024332090918456768
+    second: INGAME_TRANSPARENCY_18
+  - first:
+      213: -2624039156046868298
+    second: INGAME_TRANSPARENCY_19
+  - first:
+      213: 6116552956554525970
+    second: INGAME_TRANSPARENCY_20
+  - first:
+      213: -6555200651445257189
+    second: INGAME_TRANSPARENCY_21
+  - first:
+      213: -8221353767255921620
+    second: INGAME_TRANSPARENCY_22
+  - first:
+      213: 3751967652267917150
+    second: INGAME_TRANSPARENCY_23
+  - first:
+      213: 1541027976158383656
+    second: INGAME_TRANSPARENCY_24
+  - first:
+      213: -3829972554358578525
+    second: INGAME_TRANSPARENCY_25
+  - first:
+      213: 427932739711112245
+    second: INGAME_TRANSPARENCY_26
+  - first:
+      213: 4938557876155431946
+    second: INGAME_TRANSPARENCY_27
+  - first:
+      213: -6265994755558773617
+    second: INGAME_TRANSPARENCY_28
+  - first:
+      213: -6605895599194239560
+    second: INGAME_TRANSPARENCY_29
+  - first:
+      213: 695917589402560142
+    second: INGAME_TRANSPARENCY_30
+  - first:
+      213: 2380859954075801941
+    second: INGAME_TRANSPARENCY_31
+  - first:
+      213: -5495010329808323538
+    second: INGAME_TRANSPARENCY_32
+  - first:
+      213: -8131068634623639679
+    second: INGAME_TRANSPARENCY_33
+  - first:
+      213: 7754154748105641483
+    second: INGAME_TRANSPARENCY_34
+  - first:
+      213: 8450084978397064171
+    second: INGAME_TRANSPARENCY_35
+  - first:
+      213: 6637366824946775507
+    second: INGAME_TRANSPARENCY_36
+  - first:
+      213: -1357644946888805602
+    second: INGAME_TRANSPARENCY_37
+  - first:
+      213: 5484479012390961316
+    second: INGAME_TRANSPARENCY_38
+  - first:
+      213: 8478275872605124677
+    second: INGAME_TRANSPARENCY_39
+  - first:
+      213: 7455375038602366577
+    second: INGAME_TRANSPARENCY_40
+  - first:
+      213: -488277337562832940
+    second: INGAME_TRANSPARENCY_41
+  - first:
+      213: -1419894753789158241
+    second: INGAME_TRANSPARENCY_42
+  - first:
+      213: -1723801584809436970
+    second: INGAME_TRANSPARENCY_43
+  - first:
+      213: -6811183432944776725
+    second: INGAME_TRANSPARENCY_44
+  - first:
+      213: -271285982235789425
+    second: INGAME_TRANSPARENCY_45
+  - first:
+      213: -3944400790755849803
+    second: INGAME_TRANSPARENCY_46
+  - first:
+      213: -7140866737644739992
+    second: INGAME_TRANSPARENCY_47
+  - first:
+      213: -3241404527657042080
+    second: INGAME_TRANSPARENCY_48
+  - first:
+      213: -9221297872575693214
+    second: INGAME_TRANSPARENCY_49
+  - first:
+      213: -3983596796861461481
+    second: INGAME_TRANSPARENCY_50
+  - first:
+      213: 3780735220033825790
+    second: INGAME_TRANSPARENCY_51
+  - first:
+      213: 1727852932029693256
+    second: INGAME_TRANSPARENCY_52
+  - first:
+      213: 3910355321921061323
+    second: INGAME_TRANSPARENCY_53
+  - first:
+      213: -6943828393162716344
+    second: INGAME_TRANSPARENCY_54
+  - first:
+      213: 3785361805395064227
+    second: INGAME_TRANSPARENCY_55
+  - first:
+      213: -4623583294250302474
+    second: INGAME_TRANSPARENCY_56
+  - first:
+      213: -396953616334004266
+    second: INGAME_TRANSPARENCY_57
+  - first:
+      213: 7790005632617799939
+    second: INGAME_TRANSPARENCY_58
+  - first:
+      213: -1495067128347662038
+    second: INGAME_TRANSPARENCY_59
+  - first:
+      213: -3939876986013754359
+    second: INGAME_TRANSPARENCY_60
+  - first:
+      213: 8426699843670982270
+    second: INGAME_TRANSPARENCY_61
+  - first:
+      213: 3512692599773329105
+    second: INGAME_TRANSPARENCY_62
+  - first:
+      213: -7103915040225404461
+    second: INGAME_TRANSPARENCY_63
+  - first:
+      213: -8922282458767894925
+    second: INGAME_TRANSPARENCY_64
+  - first:
+      213: -4222696896863750955
+    second: INGAME_TRANSPARENCY_65
+  - first:
+      213: 6278375447924365090
+    second: INGAME_TRANSPARENCY_66
+  - first:
+      213: 4926434797729383252
+    second: INGAME_TRANSPARENCY_67
+  - first:
+      213: 8521987879046960968
+    second: INGAME_TRANSPARENCY_68
+  - first:
+      213: 7561134155246010924
+    second: INGAME_TRANSPARENCY_69
+  - first:
+      213: 5279675591832161207
+    second: INGAME_TRANSPARENCY_70
+  - first:
+      213: -8392228353419762589
+    second: INGAME_TRANSPARENCY_71
+  - first:
+      213: -7222861792962923156
+    second: INGAME_TRANSPARENCY_72
+  - first:
+      213: 242959563391186870
+    second: INGAME_TRANSPARENCY_73
+  - first:
+      213: 2125811612007933348
+    second: INGAME_TRANSPARENCY_74
+  - first:
+      213: 7203726036743902468
+    second: INGAME_TRANSPARENCY_75
+  - first:
+      213: -8790138782537406979
+    second: INGAME_TRANSPARENCY_76
+  - first:
+      213: 9002697028575877686
+    second: INGAME_TRANSPARENCY_77
+  - first:
+      213: -6721934181857858139
+    second: INGAME_TRANSPARENCY_78
+  - first:
+      213: 1580659195881007490
+    second: INGAME_TRANSPARENCY_79
+  - first:
+      213: 7484935138101997295
+    second: INGAME_TRANSPARENCY_80
+  - first:
+      213: 4335651633067409061
+    second: INGAME_TRANSPARENCY_81
+  - first:
+      213: 7100666062141881158
+    second: INGAME_TRANSPARENCY_82
+  - first:
+      213: -769480101593923048
+    second: INGAME_TRANSPARENCY_83
+  - first:
+      213: -6123060823125925487
+    second: INGAME_TRANSPARENCY_84
+  - first:
+      213: 23465916378141738
+    second: INGAME_TRANSPARENCY_85
+  - first:
+      213: 3421250520678259069
+    second: INGAME_TRANSPARENCY_86
+  - first:
+      213: 4327076034220280937
+    second: INGAME_TRANSPARENCY_87
+  - first:
+      213: 1884984583208840249
+    second: INGAME_TRANSPARENCY_88
+  - first:
+      213: -880672672671628181
+    second: INGAME_TRANSPARENCY_89
+  - first:
+      213: -1816706814089059222
+    second: INGAME_TRANSPARENCY_90
+  - first:
+      213: -5362436313377934483
+    second: INGAME_TRANSPARENCY_91
+  - first:
+      213: -2365639898917740537
+    second: INGAME_TRANSPARENCY_92
+  - first:
+      213: 7177625830534388563
+    second: INGAME_TRANSPARENCY_93
+  - first:
+      213: 2648036937329236002
+    second: INGAME_TRANSPARENCY_94
+  - first:
+      213: -4770806408655588129
+    second: INGAME_TRANSPARENCY_95
+  - first:
+      213: -8019801301536447341
+    second: INGAME_TRANSPARENCY_96
+  - first:
+      213: 8446038667321444191
+    second: INGAME_TRANSPARENCY_97
+  - first:
+      213: 376038064719680241
+    second: INGAME_TRANSPARENCY_98
+  - first:
+      213: -2195517001475542644
+    second: INGAME_TRANSPARENCY_99
+  - first:
+      213: -1540413927345695958
+    second: INGAME_TRANSPARENCY_100
+  - first:
+      213: -7117063276614765761
+    second: INGAME_TRANSPARENCY_101
+  - first:
+      213: -6110936692574220324
+    second: INGAME_TRANSPARENCY_102
+  - first:
+      213: 5666168935399921793
+    second: INGAME_TRANSPARENCY_103
+  - first:
+      213: 6858770332392837783
+    second: INGAME_TRANSPARENCY_104
+  - first:
+      213: -211294633650217336
+    second: INGAME_TRANSPARENCY_105
+  - first:
+      213: 6159056749849417349
+    second: INGAME_TRANSPARENCY_106
+  - first:
+      213: -447394732277515078
+    second: INGAME_TRANSPARENCY_107
+  - first:
+      213: -2065017660897217803
+    second: INGAME_TRANSPARENCY_108
+  - first:
+      213: 4567469613790114169
+    second: INGAME_TRANSPARENCY_109
+  - first:
+      213: -7688813872787952134
+    second: INGAME_TRANSPARENCY_110
+  - first:
+      213: -6327255062099827270
+    second: INGAME_TRANSPARENCY_111
+  - first:
+      213: -8567226294061242321
+    second: INGAME_TRANSPARENCY_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 327
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd1c04700eb0dca0800000000000000
+      internalID: -5994082194873901623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1117
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89727ae54ca099460800000000000000
+      internalID: 7248836913747404696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1113
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d06f2d488d079e70800000000000000
+      internalID: 9121774449323892948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1115
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebe1d377cb3df510800000000000000
+      internalID: 1584488371731950566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1121
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d587f939b991740800000000000000
+      internalID: 5123297109448613168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1089
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde7ad8d901a6b680800000000000000
+      internalID: -8739620963200893217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_6
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 965
+        width: 184
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90c86a4581c6a7e0800000000000000
+      internalID: -1754502226591039332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_7
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 986
+        width: 170
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09000dcc9799d6e0800000000000000
+      internalID: -1812250675329890036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_8
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1033
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49cfc1bafc66bcd0800000000000000
+      internalID: -2542725115623257782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1097
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c66008a1fe62640800000000000000
+      internalID: 5054990528866053135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 940
+        width: 184
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415362474f61dbf10800000000000000
+      internalID: 2287009424950572308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1057
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cae721c42a7cc040800000000000000
+      internalID: 4669241211954391751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1042
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec83078cb1010880800000000000000
+      internalID: -8646627900344005407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1001
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2f51d7ac71b9a10800000000000000
+      internalID: 1917152224825701044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_14
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 987
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb80f2ca1ad35780800000000000000
+      internalID: -8695366647047746610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_15
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 996
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97940081464994200800000000000000
+      internalID: 164826018996046201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd11f50beb77ca50800000000000000
+      internalID: 6541333233126153687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_17
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 846
+        width: 171
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ab1b3205b973a40800000000000000
+      internalID: 5347913851024292415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_18
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 901
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042bd680e2f848e90800000000000000
+      internalID: -7024332090918456768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 822
+        width: 127
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b05c135a4a859bd0800000000000000
+      internalID: -2624039156046868298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 827
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d3c41d18c52e450800000000000000
+      internalID: 6116552956554525970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_21
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 818
+        width: 136
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c323b0dbf3705a0800000000000000
+      internalID: -6555200651445257189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_22
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 879
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c24e9ae42e7ed80800000000000000
+      internalID: -8221353767255921620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_23
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 820
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f7f2273baa11430800000000000000
+      internalID: 3751967652267917150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_24
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 818
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e0cd397c4d26510800000000000000
+      internalID: 1541027976158383656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 841
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a226fdf04439dac0800000000000000
+      internalID: -3829972554358578525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_26
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 838
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5349d3a3f8250f500800000000000000
+      internalID: 427932739711112245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_27
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 821
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cb3f60938498440800000000000000
+      internalID: 4938557876155431946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_28
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 820
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c657ee7f6ba09a0800000000000000
+      internalID: -6265994755558773617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_29
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 824
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd06bab3f42354a0800000000000000
+      internalID: -6605895599194239560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 830
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8629454c5568a900800000000000000
+      internalID: 695917589402560142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 661
+        width: 378
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55914ae83838a0120800000000000000
+      internalID: 2380859954075801941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_32
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 679
+        width: 170
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c3ca6083dcdb3b0800000000000000
+      internalID: -5495010329808323538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_33
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 663
+        width: 126
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fffe43824a82f80800000000000000
+      internalID: -8131068634623639679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 662
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ece3ef8aa4c9b60800000000000000
+      internalID: 7754154748105641483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_35
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 662
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beba833748bb44570800000000000000
+      internalID: 8450084978397064171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_36
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 664
+        width: 283
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d53ae406f9ac1c50800000000000000
+      internalID: 6637366824946775507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_37
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 662
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13b6992d1da82de0800000000000000
+      internalID: -1357644946888805602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_38
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 662
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a006af8a98cc1c40800000000000000
+      internalID: 5484479012390961316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 541
+        width: 129
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548b46e7cf2e8a570800000000000000
+      internalID: 8478275872605124677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 561
+        width: 106
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e453be810d67760800000000000000
+      internalID: 7455375038602366577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_41
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 565
+        width: 127
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df91b6395a4939f0800000000000000
+      internalID: -488277337562832940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_42
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 574
+        width: 174
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cd4fd8e358b4ce0800000000000000
+      internalID: -1419894753789158241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_43
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 582
+        width: 133
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d89d2a7793d318e0800000000000000
+      internalID: -1723801584809436970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_44
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 588
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be90d4341c0d971a0800000000000000
+      internalID: -6811183432944776725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_45
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 588
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87fa4426d23c3cf0800000000000000
+      internalID: -271285982235789425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_46
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 588
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b94a3f016ca249c0800000000000000
+      internalID: -3944400790755849803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_47
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 588
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862684a398b86ec90800000000000000
+      internalID: -7140866737644739992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 459
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fb8ab71c73403d0800000000000000
+      internalID: -3241404527657042080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_49
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 466
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e7f01017e570080800000000000000
+      internalID: -9221297872575693214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_50
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 500
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c40bab1db67b8c0800000000000000
+      internalID: -3983596796861461481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 551
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbace3c6aed77430800000000000000
+      internalID: 3780735220033825790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_52
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 502
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3fbd46119af710800000000000000
+      internalID: 1727852932029693256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_53
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 502
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1c9a4827f544630800000000000000
+      internalID: 3910355321921061323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_54
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 504
+        width: 182
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bc34ccdd092af90800000000000000
+      internalID: -6943828393162716344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_55
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 504
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a577ec918e488430800000000000000
+      internalID: 3785361805395064227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_56
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 503
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3c7cc9d7bb5dfb0800000000000000
+      internalID: -4623583294250302474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 130
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfda120accbd7af0800000000000000
+      internalID: -396953616334004266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_58
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 520
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301e97289d8ab1c60800000000000000
+      internalID: 7790005632617799939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 188
+        width: 427
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2969733e54704be0800000000000000
+      internalID: -1495067128347662038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_60
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 501
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cd9ed61ceb259c0800000000000000
+      internalID: -3939876986013754359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 368
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e39da7cd6a1f470800000000000000
+      internalID: 8426699843670982270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_62
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 407
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6f1a6fe479fb030800000000000000
+      internalID: 3512692599773329105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_63
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 374
+        width: 112
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d95fc8b8e2d96d90800000000000000
+      internalID: -7103915040225404461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_64
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 351
+        width: 73
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376d073406fad2480800000000000000
+      internalID: -8922282458767894925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_65
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 438
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4ba4c8b87f565c0800000000000000
+      internalID: -4222696896863750955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_66
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 383
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227d014a435412750800000000000000
+      internalID: 6278375447924365090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 279
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45388cfd8563e5440800000000000000
+      internalID: 4926434797729383252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_68
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 280
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84757c613de244670800000000000000
+      internalID: 8521987879046960968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_69
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 279
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22038e147b8ee860800000000000000
+      internalID: 7561134155246010924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_70
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 320
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbc4745afc254940800000000000000
+      internalID: 5279675591832161207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3642478c6c0d88b80800000000000000
+      internalID: -8392228353419762589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_72
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 194
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6534b8b77d33cb90800000000000000
+      internalID: -7222861792962923156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_73
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 236
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b737b68f6a2f5300800000000000000
+      internalID: 242959563391186870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_74
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 234
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a52229e566608d10800000000000000
+      internalID: 2125811612007933348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_75
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 219
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4055a57d9a6c8f360800000000000000
+      internalID: 7203726036743902468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_76
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 206
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df529747957230680800000000000000
+      internalID: -8790138782537406979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 52
+        width: 66
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63adab8cf3100fc70800000000000000
+      internalID: 9002697028575877686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_78
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 261
+        width: 307
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad6ec6d974e6b2a0800000000000000
+      internalID: -6721934181857858139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_79
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 219
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2892179f921afe510800000000000000
+      internalID: 1580659195881007490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_80
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 223
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feea869e9d4dfd760800000000000000
+      internalID: 7484935138101997295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_81
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 203
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae33d260345b2c30800000000000000
+      internalID: 4335651633067409061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_82
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 133
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b73ae9922aa8260800000000000000
+      internalID: 7100666062141881158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_83
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 158
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81243caace14255f0800000000000000
+      internalID: -769480101593923048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_84
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 170
+        width: 228
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191e77b6f94860ba0800000000000000
+      internalID: -6123060823125925487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_85
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 176
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a245c0a602e535000800000000000000
+      internalID: 23465916378141738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79d5a4d839ba7f20800000000000000
+      internalID: 3421250520678259069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_87
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 110
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c4ecf2abcdc0c30800000000000000
+      internalID: 4327076034220280937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_88
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 127
+        width: 114
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c2049cd7fc82a10800000000000000
+      internalID: 1884984583208840249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_89
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 138
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b648306ced837c3f0800000000000000
+      internalID: -880672672671628181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_90
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 107
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64a03527c2c9c6e0800000000000000
+      internalID: -1816706814089059222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_91
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 126
+        width: 228
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63f37a959cc495b0800000000000000
+      internalID: -5362436313377934483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_92
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 130
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700648eab0f8b2fd0800000000000000
+      internalID: -2365639898917740537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_93
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 131
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b9ba70aac0c9360800000000000000
+      internalID: 7177625830534388563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2285f998097bfb420800000000000000
+      internalID: 2648036937329236002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_95
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 13
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd43def19d0bacdb0800000000000000
+      internalID: -4770806408655588129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_96
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 33
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39464bcf431f3b090800000000000000
+      internalID: -8019801301536447341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_97
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 51
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5788ec3b6b563570800000000000000
+      internalID: 8446038667321444191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_98
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 55
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f254a5a0a4f73500800000000000000
+      internalID: 376038064719680241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_99
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 60
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8138b46be4f781e0800000000000000
+      internalID: -2195517001475542644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_100
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 78
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23de7dc1b95f9ae0800000000000000
+      internalID: -1540413927345695958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_101
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 58
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33366168ac1b3d90800000000000000
+      internalID: -7117063276614765761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_102
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 81
+        width: 229
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf863a8477913ba0800000000000000
+      internalID: -6110936692574220324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_103
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 44
+        width: 97
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1889dd740a642ae40800000000000000
+      internalID: 5666168935399921793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_104
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 9
+        width: 120
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792534a274f3f2f50800000000000000
+      internalID: 6858770332392837783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_105
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e155276a4511df0800000000000000
+      internalID: -211294633650217336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_106
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5861f3e5b7d597550800000000000000
+      internalID: 6159056749849417349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_107
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcb7348cd88ac9f0800000000000000
+      internalID: -447394732277515078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_108
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 9
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2305bd0659753e0800000000000000
+      internalID: -2065017660897217803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_109
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971b95c0a69e26f30800000000000000
+      internalID: 4567469613790114169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_110
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 22
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afde0601588db4590800000000000000
+      internalID: -7688813872787952134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_111
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 14
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab56f345b031138a0800000000000000
+      internalID: -6327255062099827270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_TRANSPARENCY_112
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28e710a3191b1980800000000000000
+      internalID: -8567226294061242321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      INGAME_TRANSPARENCY_0: -5994082194873901623
+      INGAME_TRANSPARENCY_1: 7248836913747404696
+      INGAME_TRANSPARENCY_10: 2287009424950572308
+      INGAME_TRANSPARENCY_100: -1540413927345695958
+      INGAME_TRANSPARENCY_101: -7117063276614765761
+      INGAME_TRANSPARENCY_102: -6110936692574220324
+      INGAME_TRANSPARENCY_103: 5666168935399921793
+      INGAME_TRANSPARENCY_104: 6858770332392837783
+      INGAME_TRANSPARENCY_105: -211294633650217336
+      INGAME_TRANSPARENCY_106: 6159056749849417349
+      INGAME_TRANSPARENCY_107: -447394732277515078
+      INGAME_TRANSPARENCY_108: -2065017660897217803
+      INGAME_TRANSPARENCY_109: 4567469613790114169
+      INGAME_TRANSPARENCY_11: 4669241211954391751
+      INGAME_TRANSPARENCY_110: -7688813872787952134
+      INGAME_TRANSPARENCY_111: -6327255062099827270
+      INGAME_TRANSPARENCY_112: -8567226294061242321
+      INGAME_TRANSPARENCY_12: -8646627900344005407
+      INGAME_TRANSPARENCY_13: 1917152224825701044
+      INGAME_TRANSPARENCY_14: -8695366647047746610
+      INGAME_TRANSPARENCY_15: 164826018996046201
+      INGAME_TRANSPARENCY_16: 6541333233126153687
+      INGAME_TRANSPARENCY_17: 5347913851024292415
+      INGAME_TRANSPARENCY_18: -7024332090918456768
+      INGAME_TRANSPARENCY_19: -2624039156046868298
+      INGAME_TRANSPARENCY_2: 9121774449323892948
+      INGAME_TRANSPARENCY_20: 6116552956554525970
+      INGAME_TRANSPARENCY_21: -6555200651445257189
+      INGAME_TRANSPARENCY_22: -8221353767255921620
+      INGAME_TRANSPARENCY_23: 3751967652267917150
+      INGAME_TRANSPARENCY_24: 1541027976158383656
+      INGAME_TRANSPARENCY_25: -3829972554358578525
+      INGAME_TRANSPARENCY_26: 427932739711112245
+      INGAME_TRANSPARENCY_27: 4938557876155431946
+      INGAME_TRANSPARENCY_28: -6265994755558773617
+      INGAME_TRANSPARENCY_29: -6605895599194239560
+      INGAME_TRANSPARENCY_3: 1584488371731950566
+      INGAME_TRANSPARENCY_30: 695917589402560142
+      INGAME_TRANSPARENCY_31: 2380859954075801941
+      INGAME_TRANSPARENCY_32: -5495010329808323538
+      INGAME_TRANSPARENCY_33: -8131068634623639679
+      INGAME_TRANSPARENCY_34: 7754154748105641483
+      INGAME_TRANSPARENCY_35: 8450084978397064171
+      INGAME_TRANSPARENCY_36: 6637366824946775507
+      INGAME_TRANSPARENCY_37: -1357644946888805602
+      INGAME_TRANSPARENCY_38: 5484479012390961316
+      INGAME_TRANSPARENCY_39: 8478275872605124677
+      INGAME_TRANSPARENCY_4: 5123297109448613168
+      INGAME_TRANSPARENCY_40: 7455375038602366577
+      INGAME_TRANSPARENCY_41: -488277337562832940
+      INGAME_TRANSPARENCY_42: -1419894753789158241
+      INGAME_TRANSPARENCY_43: -1723801584809436970
+      INGAME_TRANSPARENCY_44: -6811183432944776725
+      INGAME_TRANSPARENCY_45: -271285982235789425
+      INGAME_TRANSPARENCY_46: -3944400790755849803
+      INGAME_TRANSPARENCY_47: -7140866737644739992
+      INGAME_TRANSPARENCY_48: -3241404527657042080
+      INGAME_TRANSPARENCY_49: -9221297872575693214
+      INGAME_TRANSPARENCY_5: -8739620963200893217
+      INGAME_TRANSPARENCY_50: -3983596796861461481
+      INGAME_TRANSPARENCY_51: 3780735220033825790
+      INGAME_TRANSPARENCY_52: 1727852932029693256
+      INGAME_TRANSPARENCY_53: 3910355321921061323
+      INGAME_TRANSPARENCY_54: -6943828393162716344
+      INGAME_TRANSPARENCY_55: 3785361805395064227
+      INGAME_TRANSPARENCY_56: -4623583294250302474
+      INGAME_TRANSPARENCY_57: -396953616334004266
+      INGAME_TRANSPARENCY_58: 7790005632617799939
+      INGAME_TRANSPARENCY_59: -1495067128347662038
+      INGAME_TRANSPARENCY_6: -1754502226591039332
+      INGAME_TRANSPARENCY_60: -3939876986013754359
+      INGAME_TRANSPARENCY_61: 8426699843670982270
+      INGAME_TRANSPARENCY_62: 3512692599773329105
+      INGAME_TRANSPARENCY_63: -7103915040225404461
+      INGAME_TRANSPARENCY_64: -8922282458767894925
+      INGAME_TRANSPARENCY_65: -4222696896863750955
+      INGAME_TRANSPARENCY_66: 6278375447924365090
+      INGAME_TRANSPARENCY_67: 4926434797729383252
+      INGAME_TRANSPARENCY_68: 8521987879046960968
+      INGAME_TRANSPARENCY_69: 7561134155246010924
+      INGAME_TRANSPARENCY_7: -1812250675329890036
+      INGAME_TRANSPARENCY_70: 5279675591832161207
+      INGAME_TRANSPARENCY_71: -8392228353419762589
+      INGAME_TRANSPARENCY_72: -7222861792962923156
+      INGAME_TRANSPARENCY_73: 242959563391186870
+      INGAME_TRANSPARENCY_74: 2125811612007933348
+      INGAME_TRANSPARENCY_75: 7203726036743902468
+      INGAME_TRANSPARENCY_76: -8790138782537406979
+      INGAME_TRANSPARENCY_77: 9002697028575877686
+      INGAME_TRANSPARENCY_78: -6721934181857858139
+      INGAME_TRANSPARENCY_79: 1580659195881007490
+      INGAME_TRANSPARENCY_8: -2542725115623257782
+      INGAME_TRANSPARENCY_80: 7484935138101997295
+      INGAME_TRANSPARENCY_81: 4335651633067409061
+      INGAME_TRANSPARENCY_82: 7100666062141881158
+      INGAME_TRANSPARENCY_83: -769480101593923048
+      INGAME_TRANSPARENCY_84: -6123060823125925487
+      INGAME_TRANSPARENCY_85: 23465916378141738
+      INGAME_TRANSPARENCY_86: 3421250520678259069
+      INGAME_TRANSPARENCY_87: 4327076034220280937
+      INGAME_TRANSPARENCY_88: 1884984583208840249
+      INGAME_TRANSPARENCY_89: -880672672671628181
+      INGAME_TRANSPARENCY_9: 5054990528866053135
+      INGAME_TRANSPARENCY_90: -1816706814089059222
+      INGAME_TRANSPARENCY_91: -5362436313377934483
+      INGAME_TRANSPARENCY_92: -2365639898917740537
+      INGAME_TRANSPARENCY_93: 7177625830534388563
+      INGAME_TRANSPARENCY_94: 2648036937329236002
+      INGAME_TRANSPARENCY_95: -4770806408655588129
+      INGAME_TRANSPARENCY_96: -8019801301536447341
+      INGAME_TRANSPARENCY_97: 8446038667321444191
+      INGAME_TRANSPARENCY_98: 376038064719680241
+      INGAME_TRANSPARENCY_99: -2195517001475542644
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 0972dd52c4f9cd943bfb824145027942
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8940332212747111712
+    second: sprites_black bird_idle_strip11 (1)_0
+  - first:
+      213: 3054193399354475453
+    second: sprites_black bird_idle_strip11 (1)_1
+  - first:
+      213: -1374804862041077082
+    second: sprites_black bird_idle_strip11 (1)_2
+  - first:
+      213: -2830807676667549053
+    second: sprites_black bird_idle_strip11 (1)_3
+  - first:
+      213: -2782394989037996872
+    second: sprites_black bird_idle_strip11 (1)_4
+  - first:
+      213: -964494783787721757
+    second: sprites_black bird_idle_strip11 (1)_5
+  - first:
+      213: 297161947853630052
+    second: sprites_black bird_idle_strip11 (1)_6
+  - first:
+      213: -1707520404466127652
+    second: sprites_black bird_idle_strip11 (1)_7
+  - first:
+      213: -2363316877470666717
+    second: sprites_black bird_idle_strip11 (1)_8
+  - first:
+      213: 8931056293295526653
+    second: sprites_black bird_idle_strip11 (1)_9
+  - first:
+      213: -459627834390383202
+    second: sprites_black bird_idle_strip11 (1)_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites_black bird_idle_strip11 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 44
+        width: 331
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2f93d683f8de380800000000000000
+      internalID: -8940332212747111712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_black bird_idle_strip11 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 44
+        width: 332
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3cdd307bca26a20800000000000000
+      internalID: 3054193399354475453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_black bird_idle_strip11 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 44
+        width: 332
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aacf821346bbece0800000000000000
+      internalID: -1374804862041077082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_black bird_idle_strip11 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 44
+        width: 331
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a28c49a63f6b8d0800000000000000
+      internalID: -2830807676667549053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_black bird_idle_strip11 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 43
+        width: 333
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4309dcf72f269d0800000000000000
+      internalID: -2782394989037996872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_black bird_idle_strip11 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 43
+        width: 333
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb9d90ba1d6d92f0800000000000000
+      internalID: -964494783787721757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_black bird_idle_strip11 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 43
+        width: 333
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a2496973bbf1400800000000000000
+      internalID: 297161947853630052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_black bird_idle_strip11 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 43
+        width: 332
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdca01d2d3bad48e0800000000000000
+      internalID: -1707520404466127652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_black bird_idle_strip11 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 43
+        width: 332
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320fca242dfc33fd0800000000000000
+      internalID: -2363316877470666717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_black bird_idle_strip11 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 44
+        width: 332
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df295e6416c71fb70800000000000000
+      internalID: 8931056293295526653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_black bird_idle_strip11 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 44
+        width: 332
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95774a7be21f99f0800000000000000
+      internalID: -459627834390383202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprites_black bird_idle_strip11 (1)_0: -8940332212747111712
+      sprites_black bird_idle_strip11 (1)_1: 3054193399354475453
+      sprites_black bird_idle_strip11 (1)_10: -459627834390383202
+      sprites_black bird_idle_strip11 (1)_2: -1374804862041077082
+      sprites_black bird_idle_strip11 (1)_3: -2830807676667549053
+      sprites_black bird_idle_strip11 (1)_4: -2782394989037996872
+      sprites_black bird_idle_strip11 (1)_5: -964494783787721757
+      sprites_black bird_idle_strip11 (1)_6: 297161947853630052
+      sprites_black bird_idle_strip11 (1)_7: -1707520404466127652
+      sprites_black bird_idle_strip11 (1)_8: -2363316877470666717
+      sprites_black bird_idle_strip11 (1)_9: 8931056293295526653
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

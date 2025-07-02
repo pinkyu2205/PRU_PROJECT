@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 5a203736cdb89b849a51fbd7399a4adf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -850886079121866884
+    second: INGAME_BOMB_BIRD_UPDATE_ANIMATION_0
+  - first:
+      213: 3100865627811613775
+    second: INGAME_BOMB_BIRD_UPDATE_ANIMATION_1
+  - first:
+      213: 4033511660594117102
+    second: INGAME_BOMB_BIRD_UPDATE_ANIMATION_2
+  - first:
+      213: -3879847182430239566
+    second: INGAME_BOMB_BIRD_UPDATE_ANIMATION_3
+  - first:
+      213: -9191260606857473954
+    second: INGAME_BOMB_BIRD_UPDATE_ANIMATION_4
+  - first:
+      213: -4223577762934401626
+    second: INGAME_BOMB_BIRD_UPDATE_ANIMATION_5
+  - first:
+      213: 8282955537569790363
+    second: INGAME_BOMB_BIRD_UPDATE_ANIMATION_6
+  - first:
+      213: 7842368427831393170
+    second: INGAME_BOMB_BIRD_UPDATE_ANIMATION_7
+  - first:
+      213: -3704704975879292991
+    second: INGAME_BOMB_BIRD_UPDATE_ANIMATION_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INGAME_BOMB_BIRD_UPDATE_ANIMATION_0
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 546
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fbd958e9b0134f0800000000000000
+      internalID: -850886079121866884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BOMB_BIRD_UPDATE_ANIMATION_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 322
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c0ee10cdc780b20800000000000000
+      internalID: 3100865627811613775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BOMB_BIRD_UPDATE_ANIMATION_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 321
+        width: 218
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9bb1f1c79e9f730800000000000000
+      internalID: 4033511660594117102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BOMB_BIRD_UPDATE_ANIMATION_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 197
+        width: 248
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4027c3b83082ac0800000000000000
+      internalID: -3879847182430239566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BOMB_BIRD_UPDATE_ANIMATION_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 48
+        width: 125
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50183aec25127080800000000000000
+      internalID: -9191260606857473954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BOMB_BIRD_UPDATE_ANIMATION_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 88
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a55e0fe666d265c0800000000000000
+      internalID: -4223577762934401626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BOMB_BIRD_UPDATE_ANIMATION_6
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 101
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99b33b2d28f2f270800000000000000
+      internalID: 8282955537569790363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BOMB_BIRD_UPDATE_ANIMATION_7
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 18
+        width: 128
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bf0a2d880b5dc60800000000000000
+      internalID: 7842368427831393170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BOMB_BIRD_UPDATE_ANIMATION_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7b71be37e369cc0800000000000000
+      internalID: -3704704975879292991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      INGAME_BOMB_BIRD_UPDATE_ANIMATION_0: -850886079121866884
+      INGAME_BOMB_BIRD_UPDATE_ANIMATION_1: 3100865627811613775
+      INGAME_BOMB_BIRD_UPDATE_ANIMATION_2: 4033511660594117102
+      INGAME_BOMB_BIRD_UPDATE_ANIMATION_3: -3879847182430239566
+      INGAME_BOMB_BIRD_UPDATE_ANIMATION_4: -9191260606857473954
+      INGAME_BOMB_BIRD_UPDATE_ANIMATION_5: -4223577762934401626
+      INGAME_BOMB_BIRD_UPDATE_ANIMATION_6: 8282955537569790363
+      INGAME_BOMB_BIRD_UPDATE_ANIMATION_7: 7842368427831393170
+      INGAME_BOMB_BIRD_UPDATE_ANIMATION_8: -3704704975879292991
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

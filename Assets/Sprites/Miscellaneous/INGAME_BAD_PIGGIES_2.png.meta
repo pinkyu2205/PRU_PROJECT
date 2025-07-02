@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: b481727f254291c4aae6c1e0677bf24d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7530611517751014158
+    second: INGAME_BAD_PIGGIES_2_0
+  - first:
+      213: -6283912752364209049
+    second: INGAME_BAD_PIGGIES_2_1
+  - first:
+      213: -450805839984195823
+    second: INGAME_BAD_PIGGIES_2_2
+  - first:
+      213: 480539981810140180
+    second: INGAME_BAD_PIGGIES_2_3
+  - first:
+      213: -8842966277796291744
+    second: INGAME_BAD_PIGGIES_2_4
+  - first:
+      213: 2547482345168780401
+    second: INGAME_BAD_PIGGIES_2_5
+  - first:
+      213: -3926898041469482736
+    second: INGAME_BAD_PIGGIES_2_6
+  - first:
+      213: 72723869450921576
+    second: INGAME_BAD_PIGGIES_2_7
+  - first:
+      213: -3580294947257327340
+    second: INGAME_BAD_PIGGIES_2_8
+  - first:
+      213: 3765706275797466175
+    second: INGAME_BAD_PIGGIES_2_9
+  - first:
+      213: -3185753680454060237
+    second: INGAME_BAD_PIGGIES_2_10
+  - first:
+      213: 6658783187785296613
+    second: INGAME_BAD_PIGGIES_2_11
+  - first:
+      213: -2006208684409810312
+    second: INGAME_BAD_PIGGIES_2_12
+  - first:
+      213: -6368416856329641282
+    second: INGAME_BAD_PIGGIES_2_13
+  - first:
+      213: 506909040412733275
+    second: INGAME_BAD_PIGGIES_2_14
+  - first:
+      213: -8172973520507279214
+    second: INGAME_BAD_PIGGIES_2_15
+  - first:
+      213: 760547409394675695
+    second: INGAME_BAD_PIGGIES_2_16
+  - first:
+      213: -5034381962676265160
+    second: INGAME_BAD_PIGGIES_2_17
+  - first:
+      213: -4923141241850128713
+    second: INGAME_BAD_PIGGIES_2_18
+  - first:
+      213: -4936505702341603081
+    second: INGAME_BAD_PIGGIES_2_19
+  - first:
+      213: 2957883362086616220
+    second: INGAME_BAD_PIGGIES_2_20
+  - first:
+      213: -3096373153084190510
+    second: INGAME_BAD_PIGGIES_2_21
+  - first:
+      213: -3025839661633382746
+    second: INGAME_BAD_PIGGIES_2_22
+  - first:
+      213: -1407696928872648834
+    second: INGAME_BAD_PIGGIES_2_23
+  - first:
+      213: 942247029972997860
+    second: INGAME_BAD_PIGGIES_2_24
+  - first:
+      213: 725879176089357405
+    second: INGAME_BAD_PIGGIES_2_25
+  - first:
+      213: 781795580395626783
+    second: INGAME_BAD_PIGGIES_2_26
+  - first:
+      213: -1807738680730372182
+    second: INGAME_BAD_PIGGIES_2_27
+  - first:
+      213: 4856111796627746115
+    second: INGAME_BAD_PIGGIES_2_28
+  - first:
+      213: 3406536515839171295
+    second: INGAME_BAD_PIGGIES_2_29
+  - first:
+      213: -1490052724044904209
+    second: INGAME_BAD_PIGGIES_2_30
+  - first:
+      213: -3631856102488323669
+    second: INGAME_BAD_PIGGIES_2_31
+  - first:
+      213: -451826535373526335
+    second: INGAME_BAD_PIGGIES_2_32
+  - first:
+      213: 1857529171130196774
+    second: INGAME_BAD_PIGGIES_2_33
+  - first:
+      213: -2175223856463592306
+    second: INGAME_BAD_PIGGIES_2_34
+  - first:
+      213: 1033430796223196586
+    second: INGAME_BAD_PIGGIES_2_35
+  - first:
+      213: -418415466285719700
+    second: INGAME_BAD_PIGGIES_2_36
+  - first:
+      213: -1590021178813877144
+    second: INGAME_BAD_PIGGIES_2_37
+  - first:
+      213: -71532724437724615
+    second: INGAME_BAD_PIGGIES_2_38
+  - first:
+      213: -3068047983906288798
+    second: INGAME_BAD_PIGGIES_2_39
+  - first:
+      213: -3542478781306944956
+    second: INGAME_BAD_PIGGIES_2_40
+  - first:
+      213: 7341816044770857136
+    second: INGAME_BAD_PIGGIES_2_41
+  - first:
+      213: 5957915948374040299
+    second: INGAME_BAD_PIGGIES_2_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 178
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03b309c64b128860800000000000000
+      internalID: 7530611517751014158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 867
+        width: 91
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cb8c335ae0bc8a0800000000000000
+      internalID: -6283912752364209049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 890
+        width: 91
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117021d1a7a6eb9f0800000000000000
+      internalID: -450805839984195823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 912
+        width: 88
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4148a2441983ba600800000000000000
+      internalID: 480539981810140180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1021
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b913bb509774580800000000000000
+      internalID: -8842966277796291744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 930
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c3d5f12b97a5320800000000000000
+      internalID: 2547482345168780401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 930
+        width: 22
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019c801790bd089c0800000000000000
+      internalID: -3926898041469482736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 966
+        width: 22
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866605559fd520100800000000000000
+      internalID: 72723869450921576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 860
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411e995f6bc305ec0800000000000000
+      internalID: -3580294947257327340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 865
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cfd5108e9724430800000000000000
+      internalID: 3765706275797466175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 868
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33774ae08ede9c3d0800000000000000
+      internalID: -3185753680454060237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 878
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea29409700c86c50800000000000000
+      internalID: 6658783187785296613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 860
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8721374b4d38824e0800000000000000
+      internalID: -2006208684409810312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 220
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2acd84c96de97a0800000000000000
+      internalID: -6368416856329641282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 640
+        width: 289
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f2c372617e80700800000000000000
+      internalID: 506909040412733275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_15
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 727
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2986d77a2e3c39e80800000000000000
+      internalID: -8172973520507279214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 510
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef20dbd6d10e8a00800000000000000
+      internalID: 760547409394675695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 385
+        width: 114
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f1c0b3748422ab0800000000000000
+      internalID: -5034381962676265160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6927cdf1d7dabb0800000000000000
+      internalID: -4923141241850128713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 231
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f01d3ce7320e7bb0800000000000000
+      internalID: -4936505702341603081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 303
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cf53c0f338c0920800000000000000
+      internalID: 2957883362086616220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 254
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d05c56c5097705d0800000000000000
+      internalID: -3096373153084190510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 255
+        width: 114
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6dd0dfbde0206d0800000000000000
+      internalID: -3025839661633382746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 91
+        width: 205
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f232bf91bd67ce0800000000000000
+      internalID: -1407696928872648834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_24
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 285
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e615387ea8831d00800000000000000
+      internalID: 942247029972997860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cc8a8c347d21a00800000000000000
+      internalID: 725879176089357405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 89
+        width: 116
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11a37030fe79da00800000000000000
+      internalID: 781795580395626783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 256
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa735586f3f99e6e0800000000000000
+      internalID: -1807738680730372182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34da49343ff546340800000000000000
+      internalID: 4856111796627746115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 148
+        width: 89
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda9dfc99e2764f20800000000000000
+      internalID: 3406536515839171295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 202
+        width: 113
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe843be21f4425be0800000000000000
+      internalID: -1490052724044904209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 165
+        width: 120
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba949dffd1e099dc0800000000000000
+      internalID: -3631856102488323669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 39
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca27f2f82acab9f0800000000000000
+      internalID: -451826535373526335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623242580f447c910800000000000000
+      internalID: 1857529171130196774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 62
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8448886d6d00d1e0800000000000000
+      internalID: -2175223856463592306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 37
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad25d475db775e00800000000000000
+      internalID: 1033430796223196586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_36
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 58
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f928ba95d713af0800000000000000
+      internalID: -418415466285719700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_37
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 59
+        width: 138
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8647373892c1fe9e0800000000000000
+      internalID: -1590021178813877144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_38
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932d21abd5dd10ff0800000000000000
+      internalID: -71532724437724615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b89652d9a1c65d0800000000000000
+      internalID: -3068047983906288798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_40
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 16
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44247d7315696dec0800000000000000
+      internalID: -3542478781306944956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 17
+        width: 77
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b094da4bce53e560800000000000000
+      internalID: 7341816044770857136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BAD_PIGGIES_2_42
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 28
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee18781df4cea250800000000000000
+      internalID: 5957915948374040299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      INGAME_BAD_PIGGIES_2_0: 7530611517751014158
+      INGAME_BAD_PIGGIES_2_1: -6283912752364209049
+      INGAME_BAD_PIGGIES_2_10: -3185753680454060237
+      INGAME_BAD_PIGGIES_2_11: 6658783187785296613
+      INGAME_BAD_PIGGIES_2_12: -2006208684409810312
+      INGAME_BAD_PIGGIES_2_13: -6368416856329641282
+      INGAME_BAD_PIGGIES_2_14: 506909040412733275
+      INGAME_BAD_PIGGIES_2_15: -8172973520507279214
+      INGAME_BAD_PIGGIES_2_16: 760547409394675695
+      INGAME_BAD_PIGGIES_2_17: -5034381962676265160
+      INGAME_BAD_PIGGIES_2_18: -4923141241850128713
+      INGAME_BAD_PIGGIES_2_19: -4936505702341603081
+      INGAME_BAD_PIGGIES_2_2: -450805839984195823
+      INGAME_BAD_PIGGIES_2_20: 2957883362086616220
+      INGAME_BAD_PIGGIES_2_21: -3096373153084190510
+      INGAME_BAD_PIGGIES_2_22: -3025839661633382746
+      INGAME_BAD_PIGGIES_2_23: -1407696928872648834
+      INGAME_BAD_PIGGIES_2_24: 942247029972997860
+      INGAME_BAD_PIGGIES_2_25: 725879176089357405
+      INGAME_BAD_PIGGIES_2_26: 781795580395626783
+      INGAME_BAD_PIGGIES_2_27: -1807738680730372182
+      INGAME_BAD_PIGGIES_2_28: 4856111796627746115
+      INGAME_BAD_PIGGIES_2_29: 3406536515839171295
+      INGAME_BAD_PIGGIES_2_3: 480539981810140180
+      INGAME_BAD_PIGGIES_2_30: -1490052724044904209
+      INGAME_BAD_PIGGIES_2_31: -3631856102488323669
+      INGAME_BAD_PIGGIES_2_32: -451826535373526335
+      INGAME_BAD_PIGGIES_2_33: 1857529171130196774
+      INGAME_BAD_PIGGIES_2_34: -2175223856463592306
+      INGAME_BAD_PIGGIES_2_35: 1033430796223196586
+      INGAME_BAD_PIGGIES_2_36: -418415466285719700
+      INGAME_BAD_PIGGIES_2_37: -1590021178813877144
+      INGAME_BAD_PIGGIES_2_38: -71532724437724615
+      INGAME_BAD_PIGGIES_2_39: -3068047983906288798
+      INGAME_BAD_PIGGIES_2_4: -8842966277796291744
+      INGAME_BAD_PIGGIES_2_40: -3542478781306944956
+      INGAME_BAD_PIGGIES_2_41: 7341816044770857136
+      INGAME_BAD_PIGGIES_2_42: 5957915948374040299
+      INGAME_BAD_PIGGIES_2_5: 2547482345168780401
+      INGAME_BAD_PIGGIES_2_6: -3926898041469482736
+      INGAME_BAD_PIGGIES_2_7: 72723869450921576
+      INGAME_BAD_PIGGIES_2_8: -3580294947257327340
+      INGAME_BAD_PIGGIES_2_9: 3765706275797466175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
