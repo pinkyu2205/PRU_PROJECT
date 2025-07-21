@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7972778754431534650}
   - component: {fileID: 5758860836348208105}
   - component: {fileID: 8904259703441673688}
+  - component: {fileID: -8841518212961058238}
   m_Layer: 0
   m_Name: HollowSkinnyTallBLOCK
   m_TagString: Untagged
@@ -134,3 +135,30 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.7, y: 2.19}
   m_EdgeRadius: 0
+--- !u!50 &-8841518212961058238
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6197078734354351928}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
