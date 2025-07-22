@@ -1805,10 +1805,10 @@ TextureImporter:
       name: Mobile - Angry Birds - Pre-Chrome Characters_51
       rect:
         serializedVersion: 2
-        x: 234
-        y: 690
-        width: 54
-        height: 39
+        x: 170
+        y: 689
+        width: 129
+        height: 119
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
