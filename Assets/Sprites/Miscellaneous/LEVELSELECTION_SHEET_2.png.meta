@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 9ee1c5bf1a4d5e948abc337d098a4a8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3021942500273143076
+    second: LEVELSELECTION_SHEET_2_0
+  - first:
+      213: 4626334927220126992
+    second: LEVELSELECTION_SHEET_2_1
+  - first:
+      213: -1131950260312725022
+    second: LEVELSELECTION_SHEET_2_2
+  - first:
+      213: -7581085882817270688
+    second: LEVELSELECTION_SHEET_2_3
+  - first:
+      213: 3218720591754138977
+    second: LEVELSELECTION_SHEET_2_4
+  - first:
+      213: 509289299982339630
+    second: LEVELSELECTION_SHEET_2_5
+  - first:
+      213: 5901080773164194711
+    second: LEVELSELECTION_SHEET_2_6
+  - first:
+      213: 2599537646835190118
+    second: LEVELSELECTION_SHEET_2_7
+  - first:
+      213: 104811545378073819
+    second: LEVELSELECTION_SHEET_2_8
+  - first:
+      213: -6614368107471128105
+    second: LEVELSELECTION_SHEET_2_9
+  - first:
+      213: 7150169072491070884
+    second: LEVELSELECTION_SHEET_2_10
+  - first:
+      213: -9218533440783174752
+    second: LEVELSELECTION_SHEET_2_11
+  - first:
+      213: 8981616483931243868
+    second: LEVELSELECTION_SHEET_2_12
+  - first:
+      213: -2744590415874804005
+    second: LEVELSELECTION_SHEET_2_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 342
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd240939e47ef06d0800000000000000
+      internalID: -3021942500273143076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 730
+        width: 279
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01530fcda1b043040800000000000000
+      internalID: 4626334927220126992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_2
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 749
+        width: 273
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e926ae4c318a40f0800000000000000
+      internalID: -1131950260312725022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 430
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ca2fe4e829ac690800000000000000
+      internalID: -7581085882817270688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 642
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1659dbe13513bac20800000000000000
+      internalID: 3218720591754138977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 605
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eca558beb511700800000000000000
+      internalID: 509289299982339630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 482
+        width: 459
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bd65ba2b9d4e150800000000000000
+      internalID: 5901080773164194711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 308
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669cdd387b9631420800000000000000
+      internalID: 2599537646835190118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 514
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcae929b8d547100800000000000000
+      internalID: 104811545378073819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 257
+        width: 189
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9b28c204b0534a0800000000000000
+      internalID: -6614368107471128105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_10
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 262
+        width: 217
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a580d163e08a3360800000000000000
+      internalID: 7150169072491070884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 212
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a33f007da0311080800000000000000
+      internalID: -9218533440783174752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3
+        width: 244
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55c3810b9c15ac70800000000000000
+      internalID: 8981616483931243868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_SHEET_2_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 97
+        width: 165
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd637d7ee8149e9d0800000000000000
+      internalID: -2744590415874804005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LEVELSELECTION_SHEET_2_0: -3021942500273143076
+      LEVELSELECTION_SHEET_2_1: 4626334927220126992
+      LEVELSELECTION_SHEET_2_10: 7150169072491070884
+      LEVELSELECTION_SHEET_2_11: -9218533440783174752
+      LEVELSELECTION_SHEET_2_12: 8981616483931243868
+      LEVELSELECTION_SHEET_2_13: -2744590415874804005
+      LEVELSELECTION_SHEET_2_2: -1131950260312725022
+      LEVELSELECTION_SHEET_2_3: -7581085882817270688
+      LEVELSELECTION_SHEET_2_4: 3218720591754138977
+      LEVELSELECTION_SHEET_2_5: 509289299982339630
+      LEVELSELECTION_SHEET_2_6: 5901080773164194711
+      LEVELSELECTION_SHEET_2_7: 2599537646835190118
+      LEVELSELECTION_SHEET_2_8: 104811545378073819
+      LEVELSELECTION_SHEET_2_9: -6614368107471128105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

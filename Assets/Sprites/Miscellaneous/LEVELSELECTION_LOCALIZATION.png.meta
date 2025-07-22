@@ -1,0 +1,2964 @@
+fileFormatVersion: 2
+guid: b2824f82cb0c4c8458785a01776d1ce8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7804298213527208074
+    second: LEVELSELECTION_LOCALIZATION_0
+  - first:
+      213: -4491428027450713212
+    second: LEVELSELECTION_LOCALIZATION_1
+  - first:
+      213: -261625049302189003
+    second: LEVELSELECTION_LOCALIZATION_2
+  - first:
+      213: -4391813496368410665
+    second: LEVELSELECTION_LOCALIZATION_3
+  - first:
+      213: -3031125760711676121
+    second: LEVELSELECTION_LOCALIZATION_4
+  - first:
+      213: 6649349932659567206
+    second: LEVELSELECTION_LOCALIZATION_5
+  - first:
+      213: -8260111522694862914
+    second: LEVELSELECTION_LOCALIZATION_6
+  - first:
+      213: -1229899144572107642
+    second: LEVELSELECTION_LOCALIZATION_7
+  - first:
+      213: -8219321380186347589
+    second: LEVELSELECTION_LOCALIZATION_8
+  - first:
+      213: -1616107267543766139
+    second: LEVELSELECTION_LOCALIZATION_9
+  - first:
+      213: 1875854646865121142
+    second: LEVELSELECTION_LOCALIZATION_10
+  - first:
+      213: 2966123670254525606
+    second: LEVELSELECTION_LOCALIZATION_11
+  - first:
+      213: -8937788904445432101
+    second: LEVELSELECTION_LOCALIZATION_12
+  - first:
+      213: -4203728373202720968
+    second: LEVELSELECTION_LOCALIZATION_13
+  - first:
+      213: -5813339542091871566
+    second: LEVELSELECTION_LOCALIZATION_14
+  - first:
+      213: 7155264900148973691
+    second: LEVELSELECTION_LOCALIZATION_15
+  - first:
+      213: -2660366670826171409
+    second: LEVELSELECTION_LOCALIZATION_16
+  - first:
+      213: -2229098628099147524
+    second: LEVELSELECTION_LOCALIZATION_17
+  - first:
+      213: -7636091628140165980
+    second: LEVELSELECTION_LOCALIZATION_18
+  - first:
+      213: -8368969046823377372
+    second: LEVELSELECTION_LOCALIZATION_19
+  - first:
+      213: -4503858857641491486
+    second: LEVELSELECTION_LOCALIZATION_20
+  - first:
+      213: -8890973807307041436
+    second: LEVELSELECTION_LOCALIZATION_21
+  - first:
+      213: 3808648054453827404
+    second: LEVELSELECTION_LOCALIZATION_22
+  - first:
+      213: -2242406482605409179
+    second: LEVELSELECTION_LOCALIZATION_23
+  - first:
+      213: -7171779365675062667
+    second: LEVELSELECTION_LOCALIZATION_24
+  - first:
+      213: 1541503626431102262
+    second: LEVELSELECTION_LOCALIZATION_25
+  - first:
+      213: -7450614130726264366
+    second: LEVELSELECTION_LOCALIZATION_26
+  - first:
+      213: -1166455430445912350
+    second: LEVELSELECTION_LOCALIZATION_27
+  - first:
+      213: -7597573118293953294
+    second: LEVELSELECTION_LOCALIZATION_28
+  - first:
+      213: -4600593673566777533
+    second: LEVELSELECTION_LOCALIZATION_29
+  - first:
+      213: -6436880787393125235
+    second: LEVELSELECTION_LOCALIZATION_30
+  - first:
+      213: 1123019063477938795
+    second: LEVELSELECTION_LOCALIZATION_31
+  - first:
+      213: 8735987525142703677
+    second: LEVELSELECTION_LOCALIZATION_32
+  - first:
+      213: -5505709870000618333
+    second: LEVELSELECTION_LOCALIZATION_33
+  - first:
+      213: 5745478124427897561
+    second: LEVELSELECTION_LOCALIZATION_34
+  - first:
+      213: -1127137164160511160
+    second: LEVELSELECTION_LOCALIZATION_35
+  - first:
+      213: -6816120795212545064
+    second: LEVELSELECTION_LOCALIZATION_36
+  - first:
+      213: 1029777976455248588
+    second: LEVELSELECTION_LOCALIZATION_37
+  - first:
+      213: 3145877895126778620
+    second: LEVELSELECTION_LOCALIZATION_38
+  - first:
+      213: -2469213878079275576
+    second: LEVELSELECTION_LOCALIZATION_39
+  - first:
+      213: -5737248089566809027
+    second: LEVELSELECTION_LOCALIZATION_40
+  - first:
+      213: -8372591201118867924
+    second: LEVELSELECTION_LOCALIZATION_41
+  - first:
+      213: 8284479193147141142
+    second: LEVELSELECTION_LOCALIZATION_42
+  - first:
+      213: -7732596835287392138
+    second: LEVELSELECTION_LOCALIZATION_43
+  - first:
+      213: 1859420026379559483
+    second: LEVELSELECTION_LOCALIZATION_44
+  - first:
+      213: -3156105124249493386
+    second: LEVELSELECTION_LOCALIZATION_45
+  - first:
+      213: 630709412025432560
+    second: LEVELSELECTION_LOCALIZATION_46
+  - first:
+      213: 2328593211326282298
+    second: LEVELSELECTION_LOCALIZATION_47
+  - first:
+      213: 7918459802681588822
+    second: LEVELSELECTION_LOCALIZATION_48
+  - first:
+      213: -7637986299578602411
+    second: LEVELSELECTION_LOCALIZATION_49
+  - first:
+      213: -19142305772765887
+    second: LEVELSELECTION_LOCALIZATION_50
+  - first:
+      213: -5980443185852584894
+    second: LEVELSELECTION_LOCALIZATION_51
+  - first:
+      213: -2831715373462269098
+    second: LEVELSELECTION_LOCALIZATION_52
+  - first:
+      213: -5302619874331528336
+    second: LEVELSELECTION_LOCALIZATION_53
+  - first:
+      213: -6499201434011089705
+    second: LEVELSELECTION_LOCALIZATION_54
+  - first:
+      213: -1151574473723104867
+    second: LEVELSELECTION_LOCALIZATION_55
+  - first:
+      213: -2203234783629792105
+    second: LEVELSELECTION_LOCALIZATION_56
+  - first:
+      213: 6447802263989341593
+    second: LEVELSELECTION_LOCALIZATION_57
+  - first:
+      213: -3125598763969609389
+    second: LEVELSELECTION_LOCALIZATION_58
+  - first:
+      213: 8087132723652808696
+    second: LEVELSELECTION_LOCALIZATION_59
+  - first:
+      213: 6362691962834199770
+    second: LEVELSELECTION_LOCALIZATION_60
+  - first:
+      213: 7622037499746669539
+    second: LEVELSELECTION_LOCALIZATION_61
+  - first:
+      213: 5179371069026796298
+    second: LEVELSELECTION_LOCALIZATION_62
+  - first:
+      213: 7462021443920135952
+    second: LEVELSELECTION_LOCALIZATION_63
+  - first:
+      213: -3417055121534094806
+    second: LEVELSELECTION_LOCALIZATION_64
+  - first:
+      213: -3006636489347224896
+    second: LEVELSELECTION_LOCALIZATION_65
+  - first:
+      213: 1790116670314316911
+    second: LEVELSELECTION_LOCALIZATION_66
+  - first:
+      213: -2470099532454944931
+    second: LEVELSELECTION_LOCALIZATION_67
+  - first:
+      213: -8387671121454873013
+    second: LEVELSELECTION_LOCALIZATION_68
+  - first:
+      213: 7971760401763834669
+    second: LEVELSELECTION_LOCALIZATION_69
+  - first:
+      213: -5087776249158583962
+    second: LEVELSELECTION_LOCALIZATION_70
+  - first:
+      213: -1283958209344152687
+    second: LEVELSELECTION_LOCALIZATION_71
+  - first:
+      213: 136338377034991186
+    second: LEVELSELECTION_LOCALIZATION_72
+  - first:
+      213: 8989365598255838849
+    second: LEVELSELECTION_LOCALIZATION_73
+  - first:
+      213: -4863752158241266406
+    second: LEVELSELECTION_LOCALIZATION_74
+  - first:
+      213: -9130342868956319019
+    second: LEVELSELECTION_LOCALIZATION_75
+  - first:
+      213: 6747496899692672397
+    second: LEVELSELECTION_LOCALIZATION_76
+  - first:
+      213: 1513510297116028575
+    second: LEVELSELECTION_LOCALIZATION_77
+  - first:
+      213: 5279859598139658843
+    second: LEVELSELECTION_LOCALIZATION_78
+  - first:
+      213: 4216538135892063649
+    second: LEVELSELECTION_LOCALIZATION_79
+  - first:
+      213: -5745018616376072297
+    second: LEVELSELECTION_LOCALIZATION_80
+  - first:
+      213: -6367009676993186592
+    second: LEVELSELECTION_LOCALIZATION_81
+  - first:
+      213: -2575202778353525354
+    second: LEVELSELECTION_LOCALIZATION_82
+  - first:
+      213: -3196022545810113750
+    second: LEVELSELECTION_LOCALIZATION_83
+  - first:
+      213: -5886610258633819729
+    second: LEVELSELECTION_LOCALIZATION_84
+  - first:
+      213: 6283602672324744918
+    second: LEVELSELECTION_LOCALIZATION_85
+  - first:
+      213: 8172485619720856944
+    second: LEVELSELECTION_LOCALIZATION_86
+  - first:
+      213: -3027977975323060740
+    second: LEVELSELECTION_LOCALIZATION_87
+  - first:
+      213: -2071199677601066642
+    second: LEVELSELECTION_LOCALIZATION_88
+  - first:
+      213: -1004404474788636906
+    second: LEVELSELECTION_LOCALIZATION_89
+  - first:
+      213: -5746811490402157677
+    second: LEVELSELECTION_LOCALIZATION_90
+  - first:
+      213: 1090769147024470027
+    second: LEVELSELECTION_LOCALIZATION_91
+  - first:
+      213: 7533932081847600263
+    second: LEVELSELECTION_LOCALIZATION_92
+  - first:
+      213: 50868089501203962
+    second: LEVELSELECTION_LOCALIZATION_93
+  - first:
+      213: 4273752440393119731
+    second: LEVELSELECTION_LOCALIZATION_94
+  - first:
+      213: 3264308388120121422
+    second: LEVELSELECTION_LOCALIZATION_95
+  - first:
+      213: 6766647135145073914
+    second: LEVELSELECTION_LOCALIZATION_96
+  - first:
+      213: -2703873939890836634
+    second: LEVELSELECTION_LOCALIZATION_97
+  - first:
+      213: -1278133637796686951
+    second: LEVELSELECTION_LOCALIZATION_98
+  - first:
+      213: -828590369204737572
+    second: LEVELSELECTION_LOCALIZATION_99
+  - first:
+      213: 4254063333619822027
+    second: LEVELSELECTION_LOCALIZATION_100
+  - first:
+      213: 128906759694375461
+    second: LEVELSELECTION_LOCALIZATION_101
+  - first:
+      213: 1837412436088665176
+    second: LEVELSELECTION_LOCALIZATION_102
+  - first:
+      213: 2264751988228990689
+    second: LEVELSELECTION_LOCALIZATION_103
+  - first:
+      213: -1703674842116833641
+    second: LEVELSELECTION_LOCALIZATION_104
+  - first:
+      213: 5398968888262425530
+    second: LEVELSELECTION_LOCALIZATION_105
+  - first:
+      213: -6420373336019403017
+    second: LEVELSELECTION_LOCALIZATION_106
+  - first:
+      213: -681857106502768635
+    second: LEVELSELECTION_LOCALIZATION_107
+  - first:
+      213: 9144200107310134968
+    second: LEVELSELECTION_LOCALIZATION_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 685
+        width: 116
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80418250ef6e4c60800000000000000
+      internalID: 7804298213527208074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 623
+        width: 183
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b1191710e3ba1c0800000000000000
+      internalID: -4491428027450713212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 670
+        width: 153
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cbfff57658e5cf0800000000000000
+      internalID: -261625049302189003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 639
+        width: 180
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfc135d4e42d03c0800000000000000
+      internalID: -4391813496368410665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 691
+        width: 152
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fae332e274fe5d0800000000000000
+      internalID: -3031125760711676121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 651
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ae073b88c374c50800000000000000
+      internalID: 6649349932659567206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 652
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb769a485503e5d80800000000000000
+      internalID: -8260111522694862914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_7
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 662
+        width: 134
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684093a8e358eeee0800000000000000
+      internalID: -1229899144572107642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 623
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb72837a0ca1fed80800000000000000
+      internalID: -8219321380186347589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 623
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b602fa00f6299e0800000000000000
+      internalID: -1616107267543766139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 623
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f49a4dcdf580a10800000000000000
+      internalID: 1875854646865121142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 624
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac166d43c9c92920800000000000000
+      internalID: 2966123670254525606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 624
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde2a19885896f380800000000000000
+      internalID: -8937788904445432101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 624
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837650f115b59a5c0800000000000000
+      internalID: -4203728373202720968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 624
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bac1e2ac7ed25fa0800000000000000
+      internalID: -5813339542091871566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 625
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b705337348b9c4360800000000000000
+      internalID: 7155264900148973691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 624
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe31e1dab9a741bd0800000000000000
+      internalID: -2660366670826171409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 623
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8f6d6ab96a011e0800000000000000
+      internalID: -2229098628099147524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_18
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 635
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a40f583f17270690800000000000000
+      internalID: -7636091628140165980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 635
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4266adb1ef27bdb80800000000000000
+      internalID: -8368969046823377372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_20
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 636
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e348cf3b341f71c0800000000000000
+      internalID: -4503858857641491486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_21
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 635
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465592cbd6aec9480800000000000000
+      internalID: -8890973807307041436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_22
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 635
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47f338f9390bd430800000000000000
+      internalID: 3808648054453827404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_23
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 626
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c75425f2f51e0e0800000000000000
+      internalID: -2242406482605409179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_24
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 629
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a26752aa8b87c90800000000000000
+      internalID: -7171779365675062667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_25
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 629
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63df6698165846510800000000000000
+      internalID: 1541503626431102262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 541
+        width: 120
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d12e835ce91a9890800000000000000
+      internalID: -7450614130726264366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 546
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee22f557faefcfe0800000000000000
+      internalID: -1166455430445912350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_28
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 546
+        width: 109
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f43809a08fff8690800000000000000
+      internalID: -7597573118293953294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 546
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f842bcd686720c0800000000000000
+      internalID: -4600593673566777533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 545
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8465e5270b9ba6a0800000000000000
+      internalID: -6436880787393125235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_31
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 545
+        width: 183
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a289263e3c59f00800000000000000
+      internalID: 1123019063477938795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_32
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 567
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eef5e6e567c3970800000000000000
+      internalID: 8735987525142703677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_33
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 559
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a440423b0ac793b0800000000000000
+      internalID: -5505709870000618333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_34
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 559
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da6d4fc9e90cbf40800000000000000
+      internalID: 5745478124427897561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_35
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 559
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843521598ba9b50f0800000000000000
+      internalID: -1127137164160511160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_36
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 546
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3043700464861a0800000000000000
+      internalID: -6816120795212545064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_37
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 559
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccab2241d918a4e00800000000000000
+      internalID: 1029777976455248588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 103
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf209cd274768ab20800000000000000
+      internalID: 3145877895126778620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 468
+        width: 138
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdbe927f079bbdd0800000000000000
+      internalID: -2469213878079275576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_40
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 475
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34f41182433160b0800000000000000
+      internalID: -5737248089566809027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_41
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 475
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eafb799a49ecb80800000000000000
+      internalID: -8372591201118867924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_42
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 474
+        width: 150
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c66a0eee168f270800000000000000
+      internalID: 8284479193147141142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_43
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 478
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670a269b52c40b490800000000000000
+      internalID: -7732596835287392138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_44
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 478
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32e99099acfdc910800000000000000
+      internalID: 1859420026379559483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_45
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 479
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670a15b7c134334d0800000000000000
+      internalID: -3156105124249493386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_46
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 480
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9754c5edab0c800800000000000000
+      internalID: 630709412025432560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_47
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 481
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a3d733033d05020800000000000000
+      internalID: 2328593211326282298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 119
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cbb0b9c3504ed60800000000000000
+      internalID: 7918459802681588822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 394
+        width: 131
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c2156adeb600690800000000000000
+      internalID: -7637986299578602411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 393
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d7b30ac2efbbff0800000000000000
+      internalID: -19142305772765887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_51
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 404
+        width: 129
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ce9d3bb92310da0800000000000000
+      internalID: -5980443185852584894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_52
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 404
+        width: 316
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653d4c3fed9b3b8d0800000000000000
+      internalID: -2831715373462269098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_53
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 413
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073fa8b915f4966b0800000000000000
+      internalID: -5302619874331528336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_54
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 413
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d44f02eab23ec5a0800000000000000
+      internalID: -6499201434011089705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_55
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 413
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91b3511e19c400f0800000000000000
+      internalID: -1151574473723104867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 116
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c26f433a98c61e0800000000000000
+      internalID: -2203234783629792105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_57
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 319
+        width: 127
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d4b074ff13b7950800000000000000
+      internalID: 6447802263989341593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_58
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 335
+        width: 307
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351013bfb74af94d0800000000000000
+      internalID: -3125598763969609389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_59
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 336
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff43cc5d544b3070800000000000000
+      internalID: 8087132723652808696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_60
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 343
+        width: 152
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad427f311a2dc4850800000000000000
+      internalID: 6362691962834199770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 111
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e35b1509bae6c960800000000000000
+      internalID: 7622037499746669539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 245
+        width: 122
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a030749bb82d0e740800000000000000
+      internalID: 5179371069026796298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_63
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 269
+        width: 123
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017053fb7fc6e8760800000000000000
+      internalID: 7462021443920135952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_64
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 269
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22f707a87e2490d0800000000000000
+      internalID: -3417055121534094806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_65
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 271
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca2bb3fa084646d0800000000000000
+      internalID: -3006636489347224896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_66
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 275
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64079090a5c7d810800000000000000
+      internalID: 1790116670314316911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_67
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 272
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f1a28ff8178bdd0800000000000000
+      internalID: -2470099532454944931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_68
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 271
+        width: 188
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4641e80e81099b80800000000000000
+      internalID: -8387671121454873013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 103
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b98a569d161ae60800000000000000
+      internalID: 7971760401763834669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 172
+        width: 133
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669bb3425769469b0800000000000000
+      internalID: -5087776249158583962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_71
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 207
+        width: 180
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b5891bfc67e2ee0800000000000000
+      internalID: -1283958209344152687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_72
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 207
+        width: 246
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2568c64180f54e100800000000000000
+      internalID: 136338377034991186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_73
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 210
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f7284264a0cc70800000000000000
+      internalID: 8989365598255838849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 115
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a156d7c6e2b708cb0800000000000000
+      internalID: -4863752158241266406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 99
+        width: 124
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2765a09818a4180800000000000000
+      internalID: -9130342868956319019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_76
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 145
+        width: 448
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d853b353eace3ad50800000000000000
+      internalID: 6747496899692672397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_77
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 96
+        width: 134
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e2f77a891110510800000000000000
+      internalID: 1513510297116028575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_78
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 97
+        width: 141
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b521d03a454d54940800000000000000
+      internalID: 5279859598139658843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_79
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 106
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5fbbb2817248a30800000000000000
+      internalID: 4216538135892063649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_80
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 106
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797e5eeb1089540b0800000000000000
+      internalID: -5745018616376072297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_81
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 107
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4b851ce66d3a7a0800000000000000
+      internalID: -6367009676993186592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d93a397ba034cd0800000000000000
+      internalID: -2575202778353525354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 61
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b39d68d6275a3d0800000000000000
+      internalID: -3196022545810113750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_84
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 49
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9f5fa882f8e4ea0800000000000000
+      internalID: -5886610258633819729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_85
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 50
+        width: 91
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d69c99a657d33750800000000000000
+      internalID: 6283602672324744918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_86
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 49
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07523771f508a6170800000000000000
+      internalID: 8172485619720856944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_87
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 49
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5992903167af5d0800000000000000
+      internalID: -3027977975323060740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_88
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e615fadedde9143e0800000000000000
+      internalID: -2071199677601066642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_89
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 69
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6171965a373af02f0800000000000000
+      internalID: -1004404474788636906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_90
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 68
+        width: 137
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b327bb5693f30b0800000000000000
+      internalID: -5746811490402157677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00795492c0332f00800000000000000
+      internalID: 1090769147024470027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 48
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784027cdf47ed8860800000000000000
+      internalID: 7533932081847600263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_93
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 47
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd3f150248b4b000800000000000000
+      internalID: 50868089501203962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_94
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 48
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f73793833b6f4b30800000000000000
+      internalID: 4273752440393119731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_95
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 47
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e405a371f272d4d20800000000000000
+      internalID: 3264308388120121422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_96
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc9cbad7b5f7ed50800000000000000
+      internalID: 6766647135145073914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_97
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bee573af8e97ad0800000000000000
+      internalID: -2703873939890836634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_98
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99396af6a38234ee0800000000000000
+      internalID: -1278133637796686951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_99
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9ed3303714084f0800000000000000
+      internalID: -828590369204737572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_100
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd6c6c1018790b30800000000000000
+      internalID: 4254063333619822027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_101
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52adab4d308f9c100800000000000000
+      internalID: 128906759694375461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_102
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 19
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85433f620eccf7910800000000000000
+      internalID: 1837412436088665176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_103
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 19
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6afb22fe30e6f10800000000000000
+      internalID: 2264751988228990689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_104
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 19
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e3bdee1c45b58e0800000000000000
+      internalID: -1703674842116833641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb7442599dfcea40800000000000000
+      internalID: 5398968888262425530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_106
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 34
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe7c2da77046e6a0800000000000000
+      internalID: -6420373336019403017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_107
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 34
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508a353039e8986f0800000000000000
+      internalID: -681857106502768635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVELSELECTION_LOCALIZATION_108
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b63f4fac89b6ee70800000000000000
+      internalID: 9144200107310134968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LEVELSELECTION_LOCALIZATION_0: 7804298213527208074
+      LEVELSELECTION_LOCALIZATION_1: -4491428027450713212
+      LEVELSELECTION_LOCALIZATION_10: 1875854646865121142
+      LEVELSELECTION_LOCALIZATION_100: 4254063333619822027
+      LEVELSELECTION_LOCALIZATION_101: 128906759694375461
+      LEVELSELECTION_LOCALIZATION_102: 1837412436088665176
+      LEVELSELECTION_LOCALIZATION_103: 2264751988228990689
+      LEVELSELECTION_LOCALIZATION_104: -1703674842116833641
+      LEVELSELECTION_LOCALIZATION_105: 5398968888262425530
+      LEVELSELECTION_LOCALIZATION_106: -6420373336019403017
+      LEVELSELECTION_LOCALIZATION_107: -681857106502768635
+      LEVELSELECTION_LOCALIZATION_108: 9144200107310134968
+      LEVELSELECTION_LOCALIZATION_11: 2966123670254525606
+      LEVELSELECTION_LOCALIZATION_12: -8937788904445432101
+      LEVELSELECTION_LOCALIZATION_13: -4203728373202720968
+      LEVELSELECTION_LOCALIZATION_14: -5813339542091871566
+      LEVELSELECTION_LOCALIZATION_15: 7155264900148973691
+      LEVELSELECTION_LOCALIZATION_16: -2660366670826171409
+      LEVELSELECTION_LOCALIZATION_17: -2229098628099147524
+      LEVELSELECTION_LOCALIZATION_18: -7636091628140165980
+      LEVELSELECTION_LOCALIZATION_19: -8368969046823377372
+      LEVELSELECTION_LOCALIZATION_2: -261625049302189003
+      LEVELSELECTION_LOCALIZATION_20: -4503858857641491486
+      LEVELSELECTION_LOCALIZATION_21: -8890973807307041436
+      LEVELSELECTION_LOCALIZATION_22: 3808648054453827404
+      LEVELSELECTION_LOCALIZATION_23: -2242406482605409179
+      LEVELSELECTION_LOCALIZATION_24: -7171779365675062667
+      LEVELSELECTION_LOCALIZATION_25: 1541503626431102262
+      LEVELSELECTION_LOCALIZATION_26: -7450614130726264366
+      LEVELSELECTION_LOCALIZATION_27: -1166455430445912350
+      LEVELSELECTION_LOCALIZATION_28: -7597573118293953294
+      LEVELSELECTION_LOCALIZATION_29: -4600593673566777533
+      LEVELSELECTION_LOCALIZATION_3: -4391813496368410665
+      LEVELSELECTION_LOCALIZATION_30: -6436880787393125235
+      LEVELSELECTION_LOCALIZATION_31: 1123019063477938795
+      LEVELSELECTION_LOCALIZATION_32: 8735987525142703677
+      LEVELSELECTION_LOCALIZATION_33: -5505709870000618333
+      LEVELSELECTION_LOCALIZATION_34: 5745478124427897561
+      LEVELSELECTION_LOCALIZATION_35: -1127137164160511160
+      LEVELSELECTION_LOCALIZATION_36: -6816120795212545064
+      LEVELSELECTION_LOCALIZATION_37: 1029777976455248588
+      LEVELSELECTION_LOCALIZATION_38: 3145877895126778620
+      LEVELSELECTION_LOCALIZATION_39: -2469213878079275576
+      LEVELSELECTION_LOCALIZATION_4: -3031125760711676121
+      LEVELSELECTION_LOCALIZATION_40: -5737248089566809027
+      LEVELSELECTION_LOCALIZATION_41: -8372591201118867924
+      LEVELSELECTION_LOCALIZATION_42: 8284479193147141142
+      LEVELSELECTION_LOCALIZATION_43: -7732596835287392138
+      LEVELSELECTION_LOCALIZATION_44: 1859420026379559483
+      LEVELSELECTION_LOCALIZATION_45: -3156105124249493386
+      LEVELSELECTION_LOCALIZATION_46: 630709412025432560
+      LEVELSELECTION_LOCALIZATION_47: 2328593211326282298
+      LEVELSELECTION_LOCALIZATION_48: 7918459802681588822
+      LEVELSELECTION_LOCALIZATION_49: -7637986299578602411
+      LEVELSELECTION_LOCALIZATION_5: 6649349932659567206
+      LEVELSELECTION_LOCALIZATION_50: -19142305772765887
+      LEVELSELECTION_LOCALIZATION_51: -5980443185852584894
+      LEVELSELECTION_LOCALIZATION_52: -2831715373462269098
+      LEVELSELECTION_LOCALIZATION_53: -5302619874331528336
+      LEVELSELECTION_LOCALIZATION_54: -6499201434011089705
+      LEVELSELECTION_LOCALIZATION_55: -1151574473723104867
+      LEVELSELECTION_LOCALIZATION_56: -2203234783629792105
+      LEVELSELECTION_LOCALIZATION_57: 6447802263989341593
+      LEVELSELECTION_LOCALIZATION_58: -3125598763969609389
+      LEVELSELECTION_LOCALIZATION_59: 8087132723652808696
+      LEVELSELECTION_LOCALIZATION_6: -8260111522694862914
+      LEVELSELECTION_LOCALIZATION_60: 6362691962834199770
+      LEVELSELECTION_LOCALIZATION_61: 7622037499746669539
+      LEVELSELECTION_LOCALIZATION_62: 5179371069026796298
+      LEVELSELECTION_LOCALIZATION_63: 7462021443920135952
+      LEVELSELECTION_LOCALIZATION_64: -3417055121534094806
+      LEVELSELECTION_LOCALIZATION_65: -3006636489347224896
+      LEVELSELECTION_LOCALIZATION_66: 1790116670314316911
+      LEVELSELECTION_LOCALIZATION_67: -2470099532454944931
+      LEVELSELECTION_LOCALIZATION_68: -8387671121454873013
+      LEVELSELECTION_LOCALIZATION_69: 7971760401763834669
+      LEVELSELECTION_LOCALIZATION_7: -1229899144572107642
+      LEVELSELECTION_LOCALIZATION_70: -5087776249158583962
+      LEVELSELECTION_LOCALIZATION_71: -1283958209344152687
+      LEVELSELECTION_LOCALIZATION_72: 136338377034991186
+      LEVELSELECTION_LOCALIZATION_73: 8989365598255838849
+      LEVELSELECTION_LOCALIZATION_74: -4863752158241266406
+      LEVELSELECTION_LOCALIZATION_75: -9130342868956319019
+      LEVELSELECTION_LOCALIZATION_76: 6747496899692672397
+      LEVELSELECTION_LOCALIZATION_77: 1513510297116028575
+      LEVELSELECTION_LOCALIZATION_78: 5279859598139658843
+      LEVELSELECTION_LOCALIZATION_79: 4216538135892063649
+      LEVELSELECTION_LOCALIZATION_8: -8219321380186347589
+      LEVELSELECTION_LOCALIZATION_80: -5745018616376072297
+      LEVELSELECTION_LOCALIZATION_81: -6367009676993186592
+      LEVELSELECTION_LOCALIZATION_82: -2575202778353525354
+      LEVELSELECTION_LOCALIZATION_83: -3196022545810113750
+      LEVELSELECTION_LOCALIZATION_84: -5886610258633819729
+      LEVELSELECTION_LOCALIZATION_85: 6283602672324744918
+      LEVELSELECTION_LOCALIZATION_86: 8172485619720856944
+      LEVELSELECTION_LOCALIZATION_87: -3027977975323060740
+      LEVELSELECTION_LOCALIZATION_88: -2071199677601066642
+      LEVELSELECTION_LOCALIZATION_89: -1004404474788636906
+      LEVELSELECTION_LOCALIZATION_9: -1616107267543766139
+      LEVELSELECTION_LOCALIZATION_90: -5746811490402157677
+      LEVELSELECTION_LOCALIZATION_91: 1090769147024470027
+      LEVELSELECTION_LOCALIZATION_92: 7533932081847600263
+      LEVELSELECTION_LOCALIZATION_93: 50868089501203962
+      LEVELSELECTION_LOCALIZATION_94: 4273752440393119731
+      LEVELSELECTION_LOCALIZATION_95: 3264308388120121422
+      LEVELSELECTION_LOCALIZATION_96: 6766647135145073914
+      LEVELSELECTION_LOCALIZATION_97: -2703873939890836634
+      LEVELSELECTION_LOCALIZATION_98: -1278133637796686951
+      LEVELSELECTION_LOCALIZATION_99: -828590369204737572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
