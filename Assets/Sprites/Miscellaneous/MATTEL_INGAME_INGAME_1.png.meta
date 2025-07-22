@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 94992b96442d0d74ebcf635f81eb81d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5794249444868230137
+    second: MATTEL_INGAME_INGAME_1_0
+  - first:
+      213: 34662765577963929
+    second: MATTEL_INGAME_INGAME_1_1
+  - first:
+      213: 2617981750529054659
+    second: MATTEL_INGAME_INGAME_1_2
+  - first:
+      213: 2889106316093389003
+    second: MATTEL_INGAME_INGAME_1_3
+  - first:
+      213: -2058952087071022802
+    second: MATTEL_INGAME_INGAME_1_4
+  - first:
+      213: 8390631840559750900
+    second: MATTEL_INGAME_INGAME_1_5
+  - first:
+      213: 864377658478435798
+    second: MATTEL_INGAME_INGAME_1_6
+  - first:
+      213: -4649040739318999170
+    second: MATTEL_INGAME_INGAME_1_7
+  - first:
+      213: -7864004454031799625
+    second: MATTEL_INGAME_INGAME_1_8
+  - first:
+      213: 3656278374652478056
+    second: MATTEL_INGAME_INGAME_1_9
+  - first:
+      213: -1369683140638973160
+    second: MATTEL_INGAME_INGAME_1_10
+  - first:
+      213: -4421207276927962373
+    second: MATTEL_INGAME_INGAME_1_11
+  - first:
+      213: 9196189235751587969
+    second: MATTEL_INGAME_INGAME_1_12
+  - first:
+      213: 8530326523969276583
+    second: MATTEL_INGAME_INGAME_1_13
+  - first:
+      213: 3917258514687544596
+    second: MATTEL_INGAME_INGAME_1_14
+  - first:
+      213: 1427606046621784236
+    second: MATTEL_INGAME_INGAME_1_15
+  - first:
+      213: 3024679925540095483
+    second: MATTEL_INGAME_INGAME_1_16
+  - first:
+      213: -1390972868392604343
+    second: MATTEL_INGAME_INGAME_1_17
+  - first:
+      213: -6831731131454890327
+    second: MATTEL_INGAME_INGAME_1_18
+  - first:
+      213: 2000923989563516097
+    second: MATTEL_INGAME_INGAME_1_19
+  - first:
+      213: -5343077885056128828
+    second: MATTEL_INGAME_INGAME_1_20
+  - first:
+      213: -7681999082456952093
+    second: MATTEL_INGAME_INGAME_1_21
+  - first:
+      213: 1693849031632694918
+    second: MATTEL_INGAME_INGAME_1_22
+  - first:
+      213: -5050514975991609893
+    second: MATTEL_INGAME_INGAME_1_23
+  - first:
+      213: 2758392151498717802
+    second: MATTEL_INGAME_INGAME_1_24
+  - first:
+      213: 5559606158376477894
+    second: MATTEL_INGAME_INGAME_1_25
+  - first:
+      213: -817276111904530950
+    second: MATTEL_INGAME_INGAME_1_26
+  - first:
+      213: 849429199897695066
+    second: MATTEL_INGAME_INGAME_1_27
+  - first:
+      213: 1482585547352245133
+    second: MATTEL_INGAME_INGAME_1_28
+  - first:
+      213: -7167588403435330265
+    second: MATTEL_INGAME_INGAME_1_29
+  - first:
+      213: -3130978229113702089
+    second: MATTEL_INGAME_INGAME_1_30
+  - first:
+      213: -5407870373250071151
+    second: MATTEL_INGAME_INGAME_1_31
+  - first:
+      213: -8684965675122782299
+    second: MATTEL_INGAME_INGAME_1_32
+  - first:
+      213: -276399625296134841
+    second: MATTEL_INGAME_INGAME_1_33
+  - first:
+      213: -533992224830129925
+    second: MATTEL_INGAME_INGAME_1_34
+  - first:
+      213: -2682899816738231569
+    second: MATTEL_INGAME_INGAME_1_35
+  - first:
+      213: -8644493243202910030
+    second: MATTEL_INGAME_INGAME_1_36
+  - first:
+      213: -9070909177382251899
+    second: MATTEL_INGAME_INGAME_1_37
+  - first:
+      213: -5549974403643980659
+    second: MATTEL_INGAME_INGAME_1_38
+  - first:
+      213: 3767559763607482997
+    second: MATTEL_INGAME_INGAME_1_39
+  - first:
+      213: 7723736718191205293
+    second: MATTEL_INGAME_INGAME_1_40
+  - first:
+      213: 4331288042883740567
+    second: MATTEL_INGAME_INGAME_1_41
+  - first:
+      213: 6816024345968588599
+    second: MATTEL_INGAME_INGAME_1_42
+  - first:
+      213: -851854203446858666
+    second: MATTEL_INGAME_INGAME_1_43
+  - first:
+      213: -9214104276064647634
+    second: MATTEL_INGAME_INGAME_1_44
+  - first:
+      213: 3436893540341968091
+    second: MATTEL_INGAME_INGAME_1_45
+  - first:
+      213: 5185134602948408145
+    second: MATTEL_INGAME_INGAME_1_46
+  - first:
+      213: -4363473945474926803
+    second: MATTEL_INGAME_INGAME_1_47
+  - first:
+      213: -7516717993269512603
+    second: MATTEL_INGAME_INGAME_1_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 816
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb006dbb2f496050800000000000000
+      internalID: 5794249444868230137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 394
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99905350a952b7000800000000000000
+      internalID: 34662765577963929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 598
+        width: 127
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c75dbc0880f45420800000000000000
+      internalID: 2617981750529054659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 600
+        width: 126
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8751923ea281820800000000000000
+      internalID: 2889106316093389003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 623
+        width: 115
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2125905cf12d63e0800000000000000
+      internalID: -2058952087071022802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_5
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 593
+        width: 62
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe55a91433817470800000000000000
+      internalID: 8390631840559750900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 505
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd146596e2eefb00800000000000000
+      internalID: 864377658478435798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 482
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77529a441a4b7fb0800000000000000
+      internalID: -4649040739318999170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 102
+        width: 107
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba48554d917dd290800000000000000
+      internalID: -7864004454031799625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 386
+        width: 304
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8628a195fc5bdb230800000000000000
+      internalID: 3656278374652478056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_10
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 487
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8136f53c078edfce0800000000000000
+      internalID: -1369683140638973160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_11
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 497
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2365cf767b4a2c0800000000000000
+      internalID: -4421207276927962373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 456
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1809e3ce26d6f9f70800000000000000
+      internalID: 9196189235751587969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 478
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa084727cec16670800000000000000
+      internalID: 8530326523969276583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_14
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 396
+        width: 326
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d43555dd5ec5630800000000000000
+      internalID: 3917258514687544596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 463
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca85718b220efc310800000000000000
+      internalID: 1427606046621784236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 458
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf58219ed52d9f920800000000000000
+      internalID: 3024679925540095483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94da04fbb8542bce0800000000000000
+      internalID: -1390972868392604343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 445
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae57a46bb0d031a0800000000000000
+      internalID: -6831731131454890327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 408
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4ad7464c5b4cb10800000000000000
+      internalID: 2000923989563516097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 424
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8ebfde8f299d5b0800000000000000
+      internalID: -5343077885056128828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 393
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2d645198e046590800000000000000
+      internalID: -7681999082456952093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 406
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e2b9948b2c18710800000000000000
+      internalID: 1693849031632694918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 380
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5ca3b5367f8e9b0800000000000000
+      internalID: -5050514975991609893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 375
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a7e451c07c74620800000000000000
+      internalID: 2758392151498717802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 292
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4aa115850b72d40800000000000000
+      internalID: 5559606158376477894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 245
+        width: 173
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd9482d4b378a4f0800000000000000
+      internalID: -817276111904530950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 322
+        width: 206
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a531fb95b57c9cb00800000000000000
+      internalID: 849429199897695066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 188
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d830f0343b3339410800000000000000
+      internalID: 1482585547352245133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 196
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7252705925c978c90800000000000000
+      internalID: -7167588403435330265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 244
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7393236a3e78c84d0800000000000000
+      internalID: -3130978229113702089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_31
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 244
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19502133c8263f4b0800000000000000
+      internalID: -5407870373250071151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_32
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 254
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af88dfbbbdc87780800000000000000
+      internalID: -8684965675122782299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 4
+        width: 77
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d3c2651080a2cf0800000000000000
+      internalID: -276399625296134841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 57
+        width: 62
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8fd2696e0e698f0800000000000000
+      internalID: -533992224830129925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_35
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 183
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea6b5fc4dc64cad0800000000000000
+      internalID: -2682899816738231569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 127
+        width: 337
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b840af1237980880800000000000000
+      internalID: -8644493243202910030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582dc44b928ad1280800000000000000
+      internalID: -9070909177382251899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 6
+        width: 62
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d844a465fa78af2b0800000000000000
+      internalID: -5549974403643980659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572f0e3c4af094430800000000000000
+      internalID: 3767559763607482997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 70
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab9d628f99303b60800000000000000
+      internalID: 7723736718191205293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_41
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 75
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7937bffd683db1c30800000000000000
+      internalID: 4331288042883740567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_42
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 76
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7373fd1a702679e50800000000000000
+      internalID: 6816024345968588599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_43
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 85
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c60238d1b9d24f0800000000000000
+      internalID: -851854203446858666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_44
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2642c5bafce02080800000000000000
+      internalID: -9214104276064647634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_45
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 23
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdceaea277c42bf20800000000000000
+      internalID: 3436893540341968091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_46
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 20
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1537359037c45f740800000000000000
+      internalID: 5185134602948408145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_47
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 23
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d277b45b093d173c0800000000000000
+      internalID: -4363473945474926803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MATTEL_INGAME_INGAME_1_48
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 36
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56632667fc04fa790800000000000000
+      internalID: -7516717993269512603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MATTEL_INGAME_INGAME_1_0: 5794249444868230137
+      MATTEL_INGAME_INGAME_1_1: 34662765577963929
+      MATTEL_INGAME_INGAME_1_10: -1369683140638973160
+      MATTEL_INGAME_INGAME_1_11: -4421207276927962373
+      MATTEL_INGAME_INGAME_1_12: 9196189235751587969
+      MATTEL_INGAME_INGAME_1_13: 8530326523969276583
+      MATTEL_INGAME_INGAME_1_14: 3917258514687544596
+      MATTEL_INGAME_INGAME_1_15: 1427606046621784236
+      MATTEL_INGAME_INGAME_1_16: 3024679925540095483
+      MATTEL_INGAME_INGAME_1_17: -1390972868392604343
+      MATTEL_INGAME_INGAME_1_18: -6831731131454890327
+      MATTEL_INGAME_INGAME_1_19: 2000923989563516097
+      MATTEL_INGAME_INGAME_1_2: 2617981750529054659
+      MATTEL_INGAME_INGAME_1_20: -5343077885056128828
+      MATTEL_INGAME_INGAME_1_21: -7681999082456952093
+      MATTEL_INGAME_INGAME_1_22: 1693849031632694918
+      MATTEL_INGAME_INGAME_1_23: -5050514975991609893
+      MATTEL_INGAME_INGAME_1_24: 2758392151498717802
+      MATTEL_INGAME_INGAME_1_25: 5559606158376477894
+      MATTEL_INGAME_INGAME_1_26: -817276111904530950
+      MATTEL_INGAME_INGAME_1_27: 849429199897695066
+      MATTEL_INGAME_INGAME_1_28: 1482585547352245133
+      MATTEL_INGAME_INGAME_1_29: -7167588403435330265
+      MATTEL_INGAME_INGAME_1_3: 2889106316093389003
+      MATTEL_INGAME_INGAME_1_30: -3130978229113702089
+      MATTEL_INGAME_INGAME_1_31: -5407870373250071151
+      MATTEL_INGAME_INGAME_1_32: -8684965675122782299
+      MATTEL_INGAME_INGAME_1_33: -276399625296134841
+      MATTEL_INGAME_INGAME_1_34: -533992224830129925
+      MATTEL_INGAME_INGAME_1_35: -2682899816738231569
+      MATTEL_INGAME_INGAME_1_36: -8644493243202910030
+      MATTEL_INGAME_INGAME_1_37: -9070909177382251899
+      MATTEL_INGAME_INGAME_1_38: -5549974403643980659
+      MATTEL_INGAME_INGAME_1_39: 3767559763607482997
+      MATTEL_INGAME_INGAME_1_4: -2058952087071022802
+      MATTEL_INGAME_INGAME_1_40: 7723736718191205293
+      MATTEL_INGAME_INGAME_1_41: 4331288042883740567
+      MATTEL_INGAME_INGAME_1_42: 6816024345968588599
+      MATTEL_INGAME_INGAME_1_43: -851854203446858666
+      MATTEL_INGAME_INGAME_1_44: -9214104276064647634
+      MATTEL_INGAME_INGAME_1_45: 3436893540341968091
+      MATTEL_INGAME_INGAME_1_46: 5185134602948408145
+      MATTEL_INGAME_INGAME_1_47: -4363473945474926803
+      MATTEL_INGAME_INGAME_1_48: -7516717993269512603
+      MATTEL_INGAME_INGAME_1_5: 8390631840559750900
+      MATTEL_INGAME_INGAME_1_6: 864377658478435798
+      MATTEL_INGAME_INGAME_1_7: -4649040739318999170
+      MATTEL_INGAME_INGAME_1_8: -7864004454031799625
+      MATTEL_INGAME_INGAME_1_9: 3656278374652478056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

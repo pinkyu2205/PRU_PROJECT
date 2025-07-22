@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: d699ad71a2d1418469006c40f849d680
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5173689050278371883
+    second: sprites_pink bird_idle_strip11_0
+  - first:
+      213: -1019056175743033228
+    second: sprites_pink bird_idle_strip11_1
+  - first:
+      213: -7479842165795311148
+    second: sprites_pink bird_idle_strip11_2
+  - first:
+      213: -8413562455703421560
+    second: sprites_pink bird_idle_strip11_3
+  - first:
+      213: 8386289435979922041
+    second: sprites_pink bird_idle_strip11_4
+  - first:
+      213: 8823959132392781715
+    second: sprites_pink bird_idle_strip11_5
+  - first:
+      213: 5548809734746152633
+    second: sprites_pink bird_idle_strip11_6
+  - first:
+      213: 6311760622678504479
+    second: sprites_pink bird_idle_strip11_7
+  - first:
+      213: 3448131501391682081
+    second: sprites_pink bird_idle_strip11_8
+  - first:
+      213: 2949878106093262239
+    second: sprites_pink bird_idle_strip11_9
+  - first:
+      213: 3647463695300822058
+    second: sprites_pink bird_idle_strip11_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites_pink bird_idle_strip11_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 48
+        width: 220
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd54db583d5338b0800000000000000
+      internalID: -5173689050278371883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_pink bird_idle_strip11_1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 48
+        width: 211
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4702baeaec59bd1f0800000000000000
+      internalID: -1019056175743033228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_pink bird_idle_strip11_2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 48
+        width: 212
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d138cb1e23423890800000000000000
+      internalID: -7479842165795311148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_pink bird_idle_strip11_3
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 45
+        width: 215
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dfb3406850d3b80800000000000000
+      internalID: -8413562455703421560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_pink bird_idle_strip11_4
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 48
+        width: 215
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ab13f3fc5126470800000000000000
+      internalID: 8386289435979922041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_pink bird_idle_strip11_5
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 48
+        width: 220
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397f5de5410057a70800000000000000
+      internalID: 8823959132392781715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_pink bird_idle_strip11_6
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 48
+        width: 221
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be16cd0e05510d40800000000000000
+      internalID: 5548809734746152633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_pink bird_idle_strip11_7
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 48
+        width: 215
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14fc0e58d0e79750800000000000000
+      internalID: 6311760622678504479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_pink bird_idle_strip11_8
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 136
+        width: 218
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a194fd4593adf20800000000000000
+      internalID: 3448131501391682081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_pink bird_idle_strip11_9
+      rect:
+        serializedVersion: 2
+        x: 4067
+        y: 105
+        width: 232
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f951464228210f820800000000000000
+      internalID: 2949878106093262239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_pink bird_idle_strip11_10
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 76
+        width: 229
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a240a81e7e46e9230800000000000000
+      internalID: 3647463695300822058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprites_pink bird_idle_strip11_0: -5173689050278371883
+      sprites_pink bird_idle_strip11_1: -1019056175743033228
+      sprites_pink bird_idle_strip11_10: 3647463695300822058
+      sprites_pink bird_idle_strip11_2: -7479842165795311148
+      sprites_pink bird_idle_strip11_3: -8413562455703421560
+      sprites_pink bird_idle_strip11_4: 8386289435979922041
+      sprites_pink bird_idle_strip11_5: 8823959132392781715
+      sprites_pink bird_idle_strip11_6: 5548809734746152633
+      sprites_pink bird_idle_strip11_7: 6311760622678504479
+      sprites_pink bird_idle_strip11_8: 3448131501391682081
+      sprites_pink bird_idle_strip11_9: 2949878106093262239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

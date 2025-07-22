@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: 5cad631b22700f84fb29d8ff3c47b0df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2449814018327580379
+    second: INGAME_EXPLOSIONS_0
+  - first:
+      213: -4215881395681494307
+    second: INGAME_EXPLOSIONS_1
+  - first:
+      213: 3909249309899107365
+    second: INGAME_EXPLOSIONS_2
+  - first:
+      213: 3310404882218740359
+    second: INGAME_EXPLOSIONS_3
+  - first:
+      213: -5396805107088851435
+    second: INGAME_EXPLOSIONS_4
+  - first:
+      213: 7265276179441989273
+    second: INGAME_EXPLOSIONS_5
+  - first:
+      213: 6739045705113657470
+    second: INGAME_EXPLOSIONS_6
+  - first:
+      213: -6060217768751901255
+    second: INGAME_EXPLOSIONS_7
+  - first:
+      213: 2512005380749833238
+    second: INGAME_EXPLOSIONS_8
+  - first:
+      213: 7973079141802843214
+    second: INGAME_EXPLOSIONS_9
+  - first:
+      213: 6616482904174280898
+    second: INGAME_EXPLOSIONS_10
+  - first:
+      213: 5554163055532045670
+    second: INGAME_EXPLOSIONS_11
+  - first:
+      213: -8882735075794555223
+    second: INGAME_EXPLOSIONS_12
+  - first:
+      213: -8837133397228364721
+    second: INGAME_EXPLOSIONS_13
+  - first:
+      213: -5359082567303198515
+    second: INGAME_EXPLOSIONS_14
+  - first:
+      213: -8180266193738939153
+    second: INGAME_EXPLOSIONS_15
+  - first:
+      213: 2612570871457215211
+    second: INGAME_EXPLOSIONS_16
+  - first:
+      213: 433996154357715190
+    second: INGAME_EXPLOSIONS_17
+  - first:
+      213: -4213351789712891263
+    second: INGAME_EXPLOSIONS_18
+  - first:
+      213: -8985662651001958294
+    second: INGAME_EXPLOSIONS_19
+  - first:
+      213: 3730396119090665697
+    second: INGAME_EXPLOSIONS_20
+  - first:
+      213: 2328880151542617134
+    second: INGAME_EXPLOSIONS_21
+  - first:
+      213: -737836413093494286
+    second: INGAME_EXPLOSIONS_22
+  - first:
+      213: 1791505514860929613
+    second: INGAME_EXPLOSIONS_23
+  - first:
+      213: 8275744732016420044
+    second: INGAME_EXPLOSIONS_24
+  - first:
+      213: 6014299876397710873
+    second: INGAME_EXPLOSIONS_25
+  - first:
+      213: 1474050684634492235
+    second: INGAME_EXPLOSIONS_26
+  - first:
+      213: 7479121535661541378
+    second: INGAME_EXPLOSIONS_27
+  - first:
+      213: 8687005666332663226
+    second: INGAME_EXPLOSIONS_28
+  - first:
+      213: -2215124887811051959
+    second: INGAME_EXPLOSIONS_29
+  - first:
+      213: -9084715940847232298
+    second: INGAME_EXPLOSIONS_30
+  - first:
+      213: 2410935759223897121
+    second: INGAME_EXPLOSIONS_31
+  - first:
+      213: -3094793641721678179
+    second: INGAME_EXPLOSIONS_32
+  - first:
+      213: 772935224438270623
+    second: INGAME_EXPLOSIONS_33
+  - first:
+      213: -22709881082223718
+    second: INGAME_EXPLOSIONS_34
+  - first:
+      213: -5425377362526989447
+    second: INGAME_EXPLOSIONS_35
+  - first:
+      213: -6173279346207616328
+    second: INGAME_EXPLOSIONS_36
+  - first:
+      213: -5441268858418443534
+    second: INGAME_EXPLOSIONS_37
+  - first:
+      213: 2555246207993686139
+    second: INGAME_EXPLOSIONS_38
+  - first:
+      213: 3908861161283778712
+    second: INGAME_EXPLOSIONS_39
+  - first:
+      213: -4887638269794718866
+    second: INGAME_EXPLOSIONS_40
+  - first:
+      213: -3398393374297799545
+    second: INGAME_EXPLOSIONS_41
+  - first:
+      213: -7835834805782588820
+    second: INGAME_EXPLOSIONS_42
+  - first:
+      213: 4677318107973549363
+    second: INGAME_EXPLOSIONS_43
+  - first:
+      213: -28092678060443696
+    second: INGAME_EXPLOSIONS_44
+  - first:
+      213: 3112955725191956258
+    second: INGAME_EXPLOSIONS_45
+  - first:
+      213: -8012283306879060618
+    second: INGAME_EXPLOSIONS_46
+  - first:
+      213: -5465454797550832572
+    second: INGAME_EXPLOSIONS_47
+  - first:
+      213: 6387231183116184506
+    second: INGAME_EXPLOSIONS_48
+  - first:
+      213: 4836048479358644769
+    second: INGAME_EXPLOSIONS_49
+  - first:
+      213: -2801166811525356554
+    second: INGAME_EXPLOSIONS_50
+  - first:
+      213: -1349983036914063295
+    second: INGAME_EXPLOSIONS_51
+  - first:
+      213: -610916604599289298
+    second: INGAME_EXPLOSIONS_52
+  - first:
+      213: -6289303123714829077
+    second: INGAME_EXPLOSIONS_53
+  - first:
+      213: 7373706773499980254
+    second: INGAME_EXPLOSIONS_54
+  - first:
+      213: 7947892039993921228
+    second: INGAME_EXPLOSIONS_55
+  - first:
+      213: 1365904544609332855
+    second: INGAME_EXPLOSIONS_56
+  - first:
+      213: 3438977375453376232
+    second: INGAME_EXPLOSIONS_57
+  - first:
+      213: 506856429006556182
+    second: INGAME_EXPLOSIONS_58
+  - first:
+      213: 4859574854074691371
+    second: INGAME_EXPLOSIONS_59
+  - first:
+      213: 8651404190126114654
+    second: INGAME_EXPLOSIONS_60
+  - first:
+      213: -5307880800658923046
+    second: INGAME_EXPLOSIONS_61
+  - first:
+      213: 382445803822695556
+    second: INGAME_EXPLOSIONS_62
+  - first:
+      213: 8769940394530023165
+    second: INGAME_EXPLOSIONS_63
+  - first:
+      213: -7184806836234592074
+    second: INGAME_EXPLOSIONS_64
+  - first:
+      213: -2491213469787895458
+    second: INGAME_EXPLOSIONS_65
+  - first:
+      213: 7556752000854090903
+    second: INGAME_EXPLOSIONS_66
+  - first:
+      213: 2871798027876397707
+    second: INGAME_EXPLOSIONS_67
+  - first:
+      213: 7776917784145210416
+    second: INGAME_EXPLOSIONS_68
+  - first:
+      213: -5226966950585226464
+    second: INGAME_EXPLOSIONS_69
+  - first:
+      213: -5456319478541977274
+    second: INGAME_EXPLOSIONS_70
+  - first:
+      213: -8794586612842065938
+    second: INGAME_EXPLOSIONS_71
+  - first:
+      213: -8784517136705941286
+    second: INGAME_EXPLOSIONS_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 746
+        width: 226
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521ffc74123800ed0800000000000000
+      internalID: -2449814018327580379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 761
+        width: 147
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaf933153e2e75c0800000000000000
+      internalID: -4215881395681494307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 761
+        width: 100
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c2af60981704630800000000000000
+      internalID: 3909249309899107365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 767
+        width: 203
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78aed5b73bbe0fd20800000000000000
+      internalID: 3310404882218740359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_4
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 767
+        width: 121
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e74fd3952ba15b0800000000000000
+      internalID: -5396805107088851435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_5
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 868
+        width: 9
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9963fbe213273d460800000000000000
+      internalID: 7265276179441989273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_6
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 940
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70eb622d56e58d50800000000000000
+      internalID: 6739045705113657470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_7
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 896
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b558083c08c5eba0800000000000000
+      internalID: -6060217768751901255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_8
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 874
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614b679a59f6cd220800000000000000
+      internalID: 2512005380749833238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 735
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c1c3d7c3116ae60800000000000000
+      internalID: 7973079141802843214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_10
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 741
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0c0cd452872db50800000000000000
+      internalID: 6616482904174280898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_11
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 741
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665f59d2fd9541d40800000000000000
+      internalID: 5554163055532045670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_12
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 750
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeec55e28f2ab480800000000000000
+      internalID: -8882735075794555223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 520
+        width: 138
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c56711ff13c5580800000000000000
+      internalID: -8837133397228364721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 527
+        width: 159
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc887e57cc6b0a5b0800000000000000
+      internalID: -5359082567303198515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 533
+        width: 620
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4cd0adc3bd97e80800000000000000
+      internalID: -8180266193738939153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 691
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be27db79d57b14420800000000000000
+      internalID: 2612570871457215211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_17
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 649
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f09066f33dd50600800000000000000
+      internalID: 433996154357715190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 69
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182286cdeda2785c0800000000000000
+      internalID: -4213351789712891263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 440
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60988f4d638c4380800000000000000
+      internalID: -8985662651001958294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 333
+        width: 143
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e815ed718705c330800000000000000
+      internalID: 3730396119090665697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 362
+        width: 155
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24d72da828d15020800000000000000
+      internalID: 2328880151542617134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_22
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 427
+        width: 135
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1c63701bda2c5f0800000000000000
+      internalID: -737836413093494286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_23
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 450
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42607226c4bcd810800000000000000
+      internalID: 1791505514860929613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_24
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 450
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc426abacf959d270800000000000000
+      internalID: 8275744732016420044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 364
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e7c595fd5177350800000000000000
+      internalID: 6014299876397710873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 338
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d6f8ea941e47410800000000000000
+      internalID: 1474050684634492235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_27
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 338
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208841d196d2bc760800000000000000
+      internalID: 7479121535661541378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_28
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 340
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd5097b0a17e8870800000000000000
+      internalID: 8687005666332663226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_29
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 340
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e25e896ab4241e0800000000000000
+      internalID: -2215124887811051959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_30
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 340
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dad8741cfa9ce180800000000000000
+      internalID: -9084715940847232298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_31
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 384
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cb3d0ac4d557120800000000000000
+      internalID: 2410935759223897121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 90
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96ba0c64951d05d0800000000000000
+      internalID: -3094793641721678179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 298
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aa70fcd740aba00800000000000000
+      internalID: 772935224438270623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 253
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93e335cb715faff0800000000000000
+      internalID: -22709881082223718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 178
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973122e980035b4b0800000000000000
+      internalID: -5425377362526989447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_36
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 218
+        width: 87
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b21a0e542b145aa0800000000000000
+      internalID: -6173279346207616328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 284
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fac2966dcabc74b0800000000000000
+      internalID: -5441268858418443534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_38
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 254
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78a02d43ee067320800000000000000
+      internalID: 2555246207993686139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_39
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 258
+        width: 132
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898f3a224801f3630800000000000000
+      internalID: 3908861161283778712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_40
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 262
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6be742b3ee9b2cb0800000000000000
+      internalID: -4887638269794718866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_41
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 263
+        width: 118
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78440f54b3b76d0d0800000000000000
+      internalID: -3398393374297799545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 208
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62dfaa92c5814390800000000000000
+      internalID: -7835834805782588820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_43
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 105
+        width: 92
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33df347a90c29e040800000000000000
+      internalID: 4677318107973549363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_44
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 218
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7fa6fabd13c9ff0800000000000000
+      internalID: -28092678060443696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 147
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227c5992db0733b20800000000000000
+      internalID: 3112955725191956258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_46
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 170
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6757ea588c6aec090800000000000000
+      internalID: -8012283306879060618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_47
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 197
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4443700a1ddc624b0800000000000000
+      internalID: -5465454797550832572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_48
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 207
+        width: 100
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb20f78be004a850800000000000000
+      internalID: 6387231183116184506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_49
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 215
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1227db038781d1340800000000000000
+      internalID: 4836048479358644769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_50
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 215
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3ea6a40a14029d0800000000000000
+      internalID: -2801166811525356554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 163
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1482fe79495e34de0800000000000000
+      internalID: -1349983036914063295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_52
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 158
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ab87bb5969587f0800000000000000
+      internalID: -610916604599289298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_53
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 179
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be419329128e7b8a0800000000000000
+      internalID: -6289303123714829077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_54
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 157
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9ab503e3ba45660800000000000000
+      internalID: 7373706773499980254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_55
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 141
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce0efc53b59c4e60800000000000000
+      internalID: 7947892039993921228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 37
+        width: 149
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee78a42faa4f210800000000000000
+      internalID: 1365904544609332855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_57
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 105
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eee086d3b3b9bf20800000000000000
+      internalID: 3438977375453376232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_58
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 86
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c0f0b9c37b80700800000000000000
+      internalID: 506856429006556182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_59
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 115
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fea88259da07340800000000000000
+      internalID: 4859574854074691371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_60
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 135
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e570bc81646ff0870800000000000000
+      internalID: 8651404190126114654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 140
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1eb9eb88e9656b0800000000000000
+      internalID: -5307880800658923046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_62
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 93
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484c0baae68be4500800000000000000
+      internalID: 382445803822695556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_63
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 113
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6af4dd25615b970800000000000000
+      internalID: 8769940394530023165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_64
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 91
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0607acf307a4c90800000000000000
+      internalID: -7184806836234592074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59cf995c8e6d6dd0800000000000000
+      internalID: -2491213469787895458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_66
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 23
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79461aa48e9fed860800000000000000
+      internalID: 7556752000854090903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_67
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b827d36471daad720800000000000000
+      internalID: 2871798027876397707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_68
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 71
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ca46355892deb60800000000000000
+      internalID: 7776917784145210416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_69
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 69
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b29a980451677b0800000000000000
+      internalID: -5226966950585226464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_70
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 11
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649f574d7524744b0800000000000000
+      internalID: -5456319478541977274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 11
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef8423421a53f580800000000000000
+      internalID: -8794586612842065938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_EXPLOSIONS_72
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 11
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad09f4fd430271680800000000000000
+      internalID: -8784517136705941286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      INGAME_EXPLOSIONS_0: -2449814018327580379
+      INGAME_EXPLOSIONS_1: -4215881395681494307
+      INGAME_EXPLOSIONS_10: 6616482904174280898
+      INGAME_EXPLOSIONS_11: 5554163055532045670
+      INGAME_EXPLOSIONS_12: -8882735075794555223
+      INGAME_EXPLOSIONS_13: -8837133397228364721
+      INGAME_EXPLOSIONS_14: -5359082567303198515
+      INGAME_EXPLOSIONS_15: -8180266193738939153
+      INGAME_EXPLOSIONS_16: 2612570871457215211
+      INGAME_EXPLOSIONS_17: 433996154357715190
+      INGAME_EXPLOSIONS_18: -4213351789712891263
+      INGAME_EXPLOSIONS_19: -8985662651001958294
+      INGAME_EXPLOSIONS_2: 3909249309899107365
+      INGAME_EXPLOSIONS_20: 3730396119090665697
+      INGAME_EXPLOSIONS_21: 2328880151542617134
+      INGAME_EXPLOSIONS_22: -737836413093494286
+      INGAME_EXPLOSIONS_23: 1791505514860929613
+      INGAME_EXPLOSIONS_24: 8275744732016420044
+      INGAME_EXPLOSIONS_25: 6014299876397710873
+      INGAME_EXPLOSIONS_26: 1474050684634492235
+      INGAME_EXPLOSIONS_27: 7479121535661541378
+      INGAME_EXPLOSIONS_28: 8687005666332663226
+      INGAME_EXPLOSIONS_29: -2215124887811051959
+      INGAME_EXPLOSIONS_3: 3310404882218740359
+      INGAME_EXPLOSIONS_30: -9084715940847232298
+      INGAME_EXPLOSIONS_31: 2410935759223897121
+      INGAME_EXPLOSIONS_32: -3094793641721678179
+      INGAME_EXPLOSIONS_33: 772935224438270623
+      INGAME_EXPLOSIONS_34: -22709881082223718
+      INGAME_EXPLOSIONS_35: -5425377362526989447
+      INGAME_EXPLOSIONS_36: -6173279346207616328
+      INGAME_EXPLOSIONS_37: -5441268858418443534
+      INGAME_EXPLOSIONS_38: 2555246207993686139
+      INGAME_EXPLOSIONS_39: 3908861161283778712
+      INGAME_EXPLOSIONS_4: -5396805107088851435
+      INGAME_EXPLOSIONS_40: -4887638269794718866
+      INGAME_EXPLOSIONS_41: -3398393374297799545
+      INGAME_EXPLOSIONS_42: -7835834805782588820
+      INGAME_EXPLOSIONS_43: 4677318107973549363
+      INGAME_EXPLOSIONS_44: -28092678060443696
+      INGAME_EXPLOSIONS_45: 3112955725191956258
+      INGAME_EXPLOSIONS_46: -8012283306879060618
+      INGAME_EXPLOSIONS_47: -5465454797550832572
+      INGAME_EXPLOSIONS_48: 6387231183116184506
+      INGAME_EXPLOSIONS_49: 4836048479358644769
+      INGAME_EXPLOSIONS_5: 7265276179441989273
+      INGAME_EXPLOSIONS_50: -2801166811525356554
+      INGAME_EXPLOSIONS_51: -1349983036914063295
+      INGAME_EXPLOSIONS_52: -610916604599289298
+      INGAME_EXPLOSIONS_53: -6289303123714829077
+      INGAME_EXPLOSIONS_54: 7373706773499980254
+      INGAME_EXPLOSIONS_55: 7947892039993921228
+      INGAME_EXPLOSIONS_56: 1365904544609332855
+      INGAME_EXPLOSIONS_57: 3438977375453376232
+      INGAME_EXPLOSIONS_58: 506856429006556182
+      INGAME_EXPLOSIONS_59: 4859574854074691371
+      INGAME_EXPLOSIONS_6: 6739045705113657470
+      INGAME_EXPLOSIONS_60: 8651404190126114654
+      INGAME_EXPLOSIONS_61: -5307880800658923046
+      INGAME_EXPLOSIONS_62: 382445803822695556
+      INGAME_EXPLOSIONS_63: 8769940394530023165
+      INGAME_EXPLOSIONS_64: -7184806836234592074
+      INGAME_EXPLOSIONS_65: -2491213469787895458
+      INGAME_EXPLOSIONS_66: 7556752000854090903
+      INGAME_EXPLOSIONS_67: 2871798027876397707
+      INGAME_EXPLOSIONS_68: 7776917784145210416
+      INGAME_EXPLOSIONS_69: -5226966950585226464
+      INGAME_EXPLOSIONS_7: -6060217768751901255
+      INGAME_EXPLOSIONS_70: -5456319478541977274
+      INGAME_EXPLOSIONS_71: -8794586612842065938
+      INGAME_EXPLOSIONS_72: -8784517136705941286
+      INGAME_EXPLOSIONS_8: 2512005380749833238
+      INGAME_EXPLOSIONS_9: 7973079141802843214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
