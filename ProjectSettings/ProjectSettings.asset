@@ -287,6 +287,9 @@ PlayerSettings:
   AndroidReportGooglePlayAppDependencies: 1
   androidSymbolsSizeThreshold: 800
   m_BuildTargetIcons: []
+<<<<<<< HEAD
+  m_BuildTargetPlatformIcons: []
+=======
   m_BuildTargetPlatformIcons:
   - m_BuildTarget: iPhone
     m_Icons:
@@ -477,6 +480,7 @@ PlayerSettings:
       m_Height: 36
       m_Kind: 0
       m_SubKind: 
+>>>>>>> 62f327a9b07083f64a674de754fdea93df7a279f
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs: []
@@ -764,6 +768,9 @@ PlayerSettings:
   webGLCloseOnQuit: 0
   webWasm2023: 0
   webEnableSubmoduleStrippingCompatibility: 0
+<<<<<<< HEAD
+  scriptingDefineSymbols: {}
+=======
   scriptingDefineSymbols:
     Android: DOTWEEN
     EmbeddedLinux: DOTWEEN
@@ -783,6 +790,7 @@ PlayerSettings:
     XboxOne: DOTWEEN
     iPhone: DOTWEEN
     tvOS: DOTWEEN
+>>>>>>> 62f327a9b07083f64a674de754fdea93df7a279f
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
@@ -879,7 +887,11 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
+<<<<<<< HEAD
+  activeInputHandler: 1
+=======
   activeInputHandler: 2
+>>>>>>> 62f327a9b07083f64a674de754fdea93df7a279f
   windowsGamepadBackendHint: 0
   cloudProjectId: ac0c949a-3e40-48af-92dd-b033afbeca86
   framebufferDepthMemorylessMode: 0

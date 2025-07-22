@@ -1,3 +1,4 @@
+using UnityEngine;
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
@@ -10,6 +11,33 @@ public class GameManager : MonoBehaviour
     public static GameManager instance;
 
     public int MaxNumberOfShots = 3;
+
+    private int _usedNumberOfShots;
+
+    private void Awake()
+    {
+        if(instance == null)
+        {
+            instance = this;
+        }
+    }
+
+    public void UseShot()
+    {
+        _usedNumberOfShots++;
+    }
+
+    public bool HasEnoughShots()
+    {
+        if(_usedNumberOfShots < MaxNumberOfShots)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
     [SerializeField] private float _secondToWaitBeforeDeathCheck = 5f;
     [SerializeField] private GameObject _restartScreenObject;
     [SerializeField] private SlingShotHandler _slingShotHandler;

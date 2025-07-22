@@ -1512,6 +1512,15 @@ TextureImporter:
       name: BUTTONS_SHEET_1_49
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
+        x: 440
+        y: 578
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+=======
         x: 443
         y: 577
         width: 95
@@ -1519,6 +1528,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 3, z: 0, w: 0}
+>>>>>>> 62f327a9b07083f64a674de754fdea93df7a279f
       customData: 
       outline: []
       physicsShape: []
